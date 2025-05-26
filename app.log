@@ -1691,3 +1691,820 @@ nks.py', reloading
 2025-05-25 18:15:31,219 - INFO -  * Debugger PIN: 462-248-200
 2025-05-25 18:15:36,643 - WARNING -  * Debugger is active!
 2025-05-25 18:15:36,648 - INFO -  * Debugger PIN: 462-248-200
+2025-05-25 18:58:16,973 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model.py', reloading
+2025-05-25 18:58:16,990 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model.py', reloading
+2025-05-25 18:58:16,997 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\ThreeInputModel.py', reloading
+2025-05-25 18:58:17,005 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\ThreeInputModel.py', reloading
+2025-05-25 18:58:17,039 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\__init__.py', reloading
+2025-05-25 18:58:17,039 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\__init__.py', reloading
+2025-05-25 18:58:20,526 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-25 18:59:36,428 - WARNING -  * Debugger is active!
+2025-05-25 18:59:36,437 - INFO -  * Debugger PIN: 462-248-200
+2025-05-25 18:59:37,061 - WARNING -  * Debugger is active!
+2025-05-25 18:59:37,073 - INFO -  * Debugger PIN: 462-248-200
+2025-05-25 19:58:27,664 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\__init__.py', reloading
+2025-05-25 19:58:27,681 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\__main__.py', reloading
+2025-05-25 19:58:27,681 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\__init__.py', reloading
+2025-05-25 19:58:27,681 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\__init__.py', reloading
+2025-05-25 19:58:27,673 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\arbiter.py', reloading
+2025-05-25 19:58:27,689 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\__main__.py', reloading
+2025-05-25 19:58:27,689 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\__main__.py', reloading
+2025-05-25 19:58:27,689 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\__init__.py', reloading
+2025-05-25 19:58:27,689 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\arbiter.py', reloading
+2025-05-25 19:58:27,689 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\arbiter.py', reloading
+2025-05-25 19:58:27,689 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\__main__.py', reloading
+2025-05-25 19:58:27,689 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\config.py', reloading
+2025-05-25 19:58:27,689 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\__init__.py', reloading
+2025-05-25 19:58:27,689 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\config.py', reloading
+2025-05-25 19:58:27,689 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\__init__.py', reloading
+2025-05-25 19:58:27,689 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\__main__.py', reloading
+2025-05-25 19:58:27,697 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\__main__.py', reloading
+2025-05-25 19:58:27,697 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\arbiter.py', reloading
+2025-05-25 19:58:27,697 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\arbiter.py', reloading
+2025-05-25 19:58:27,697 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\config.py', reloading
+2025-05-25 19:58:27,697 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\config.py', reloading
+2025-05-25 19:58:27,706 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\debug.py', reloading
+2025-05-25 19:58:27,706 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\debug.py', reloading
+2025-05-25 19:58:27,706 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\errors.py', reloading
+2025-05-25 19:58:27,706 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\errors.py', reloading
+2025-05-25 19:58:27,706 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\glogging.py', reloading
+2025-05-25 19:58:27,713 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\glogging.py', reloading
+2025-05-25 19:58:27,715 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\pidfile.py', reloading
+2025-05-25 19:58:27,715 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\pidfile.py', reloading
+2025-05-25 19:58:27,715 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\reloader.py', reloading
+2025-05-25 19:58:27,715 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\reloader.py', reloading
+2025-05-25 19:58:27,715 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\sock.py', reloading
+2025-05-25 19:58:27,715 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\sock.py', reloading
+2025-05-25 19:58:27,715 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\debug.py', reloading
+2025-05-25 19:58:27,723 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\systemd.py', reloading
+2025-05-25 19:58:27,723 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\debug.py', reloading
+2025-05-25 19:58:27,723 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\systemd.py', reloading
+2025-05-25 19:58:27,723 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\errors.py', reloading
+2025-05-25 19:58:27,723 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\util.py', reloading
+2025-05-25 19:58:27,723 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\util.py', reloading
+2025-05-25 19:58:27,723 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\errors.py', reloading
+2025-05-25 19:58:27,723 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\glogging.py', reloading
+2025-05-25 19:58:27,723 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\glogging.py', reloading
+2025-05-25 19:58:27,723 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\base.py', reloading
+2025-05-25 19:58:27,723 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\pasterapp.py', reloading
+2025-05-25 19:58:27,723 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\pidfile.py', reloading
+2025-05-25 19:58:27,723 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\wsgiapp.py', reloading
+2025-05-25 19:58:27,730 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\__init__.py', reloading
+2025-05-25 19:58:27,730 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\pidfile.py', reloading
+2025-05-25 19:58:27,730 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\__init__.py', reloading
+2025-05-25 19:58:27,730 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\__init__.py', reloading
+2025-05-25 19:58:27,730 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\reloader.py', reloading
+2025-05-25 19:58:27,730 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\base.py', reloading
+2025-05-25 19:58:27,730 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\base.py', reloading
+2025-05-25 19:58:27,730 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\reloader.py', reloading
+2025-05-25 19:58:27,730 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\pasterapp.py', reloading
+2025-05-25 19:58:27,730 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\sock.py', reloading
+2025-05-25 19:58:27,730 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\pasterapp.py', reloading
+2025-05-25 19:58:27,730 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\wsgiapp.py', reloading
+2025-05-25 19:58:27,730 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\wsgiapp.py', reloading
+2025-05-25 19:58:27,738 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\systemd.py', reloading
+2025-05-25 19:58:27,739 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\body.py', reloading
+2025-05-25 19:58:27,739 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\errors.py', reloading
+2025-05-25 19:58:27,739 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\message.py', reloading
+2025-05-25 19:58:27,739 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\util.py', reloading
+2025-05-25 19:58:27,739 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\parser.py', reloading
+2025-05-25 19:58:27,739 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\unreader.py', reloading
+2025-05-25 19:58:27,739 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\util.py', reloading
+2025-05-25 19:58:27,739 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\wsgi.py', reloading
+2025-05-25 19:58:27,739 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\__init__.py', reloading
+2025-05-25 19:58:27,739 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\__init__.py', reloading
+2025-05-25 19:58:27,739 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\base.py', reloading
+2025-05-25 19:58:27,739 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\__init__.py', reloading
+2025-05-25 19:58:27,739 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\body.py', reloading
+2025-05-25 19:58:27,739 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\body.py', reloading
+2025-05-25 19:58:27,739 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\pasterapp.py', reloading
+2025-05-25 19:58:27,739 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\errors.py', reloading
+2025-05-25 19:58:27,739 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\wsgiapp.py', reloading
+2025-05-25 19:58:27,747 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\errors.py', reloading
+2025-05-25 19:58:27,747 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\__init__.py', reloading
+2025-05-25 19:58:27,747 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\message.py', reloading
+2025-05-25 19:58:27,748 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\message.py', reloading
+2025-05-25 19:58:27,748 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\__init__.py', reloading
+2025-05-25 19:58:27,748 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\__init__.py', reloading
+2025-05-25 19:58:27,748 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\parser.py', reloading
+2025-05-25 19:58:27,748 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\base.py', reloading
+2025-05-25 19:58:27,748 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\parser.py', reloading
+2025-05-25 19:58:27,748 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\unreader.py', reloading
+2025-05-25 19:58:27,748 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\unreader.py', reloading
+2025-05-25 19:58:27,748 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\base.py', reloading
+2025-05-25 19:58:27,748 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\wsgi.py', reloading
+2025-05-25 19:58:27,748 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\wsgi.py', reloading
+2025-05-25 19:58:27,748 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\pasterapp.py', reloading
+2025-05-25 19:58:27,748 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\instrument\\statsd.py', reloading
+2025-05-25 19:58:27,748 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\instrument\\__init__.py', reloading
+2025-05-25 19:58:27,748 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\pasterapp.py', reloading
+2025-05-25 19:58:27,748 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\instrument\\__init__.py', reloading
+2025-05-25 19:58:27,755 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\wsgiapp.py', reloading
+2025-05-25 19:58:27,755 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\instrument\\statsd.py', reloading
+2025-05-25 19:58:27,756 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\app\\wsgiapp.py', reloading
+2025-05-25 19:58:27,756 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\instrument\\statsd.py', reloading
+2025-05-25 19:58:27,756 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\body.py', reloading
+2025-05-25 19:58:27,756 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\errors.py', reloading
+2025-05-25 19:58:27,756 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\message.py', reloading
+2025-05-25 19:58:27,756 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\parser.py', reloading
+2025-05-25 19:58:27,756 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\unreader.py', reloading
+2025-05-25 19:58:27,756 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\wsgi.py', reloading
+2025-05-25 19:58:27,756 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\base.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\base_async.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\__init__.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\geventlet.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\ggevent.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\__init__.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\gthread.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\gtornado.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\__init__.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\sync.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\body.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\workertmp.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\__init__.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\body.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\__init__.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\__init__.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\errors.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\base.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\errors.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\base.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\base_async.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\message.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\base_async.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\message.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\geventlet.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\parser.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\geventlet.py', reloading
+2025-05-25 19:58:27,763 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\parser.py', reloading
+2025-05-25 19:58:27,772 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\ggevent.py', reloading
+2025-05-25 19:58:27,772 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\ggevent.py', reloading
+2025-05-25 19:58:27,772 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\unreader.py', reloading
+2025-05-25 19:58:27,772 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\gthread.py', reloading
+2025-05-25 19:58:27,772 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\unreader.py', reloading
+2025-05-25 19:58:27,772 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\gthread.py', reloading
+2025-05-25 19:58:27,772 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\gtornado.py', reloading
+2025-05-25 19:58:27,772 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\wsgi.py', reloading
+2025-05-25 19:58:27,772 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\gtornado.py', reloading
+2025-05-25 19:58:27,772 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\http\\wsgi.py', reloading
+2025-05-25 19:58:27,772 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\sync.py', reloading
+2025-05-25 19:58:27,772 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\sync.py', reloading
+2025-05-25 19:58:27,772 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\workertmp.py', reloading
+2025-05-25 19:58:27,772 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\instrument\\statsd.py', reloading
+2025-05-25 19:58:27,772 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\workertmp.py', reloading
+2025-05-25 19:58:27,772 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\instrument\\__init__.py', reloading
+2025-05-25 19:58:27,772 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\instrument\\__init__.py', reloading
+2025-05-25 19:58:27,780 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\instrument\\statsd.py', reloading
+2025-05-25 19:58:27,781 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\instrument\\statsd.py', reloading
+2025-05-25 19:58:27,781 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\base.py', reloading
+2025-05-25 19:58:27,781 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\base_async.py', reloading
+2025-05-25 19:58:27,781 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\geventlet.py', reloading
+2025-05-25 19:58:27,781 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\ggevent.py', reloading
+2025-05-25 19:58:27,788 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\gthread.py', reloading
+2025-05-25 19:58:27,789 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\gtornado.py', reloading
+2025-05-25 19:58:27,789 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\sync.py', reloading
+2025-05-25 19:58:27,797 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\workertmp.py', reloading
+2025-05-25 19:58:27,797 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\__init__.py', reloading
+2025-05-25 19:58:27,797 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\__init__.py', reloading
+2025-05-25 19:58:27,797 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\__init__.py', reloading
+2025-05-25 19:58:27,806 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\base.py', reloading
+2025-05-25 19:58:27,806 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\base.py', reloading
+2025-05-25 19:58:27,806 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\base_async.py', reloading
+2025-05-25 19:58:27,806 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\base_async.py', reloading
+2025-05-25 19:58:27,806 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\geventlet.py', reloading
+2025-05-25 19:58:27,813 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\geventlet.py', reloading
+2025-05-25 19:58:27,813 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\ggevent.py', reloading
+2025-05-25 19:58:27,813 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\ggevent.py', reloading
+2025-05-25 19:58:27,813 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\gthread.py', reloading
+2025-05-25 19:58:27,813 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\gthread.py', reloading
+2025-05-25 19:58:27,813 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\gtornado.py', reloading
+2025-05-25 19:58:27,813 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\gtornado.py', reloading
+2025-05-25 19:58:27,821 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\sync.py', reloading
+2025-05-25 19:58:27,821 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\sync.py', reloading
+2025-05-25 19:58:27,821 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\workertmp.py', reloading
+2025-05-25 19:58:27,821 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\gunicorn\\workers\\workertmp.py', reloading
+2025-05-25 19:58:32,844 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-25 19:58:56,094 - WARNING -  * Debugger is active!
+2025-05-25 19:58:56,102 - INFO -  * Debugger PIN: 462-248-200
+2025-05-25 19:58:58,704 - WARNING -  * Debugger is active!
+2025-05-25 19:58:58,713 - INFO -  * Debugger PIN: 462-248-200
+2025-05-25 19:59:31,359 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\camembert\\configuration_camembert.py', reloading
+2025-05-25 19:59:31,359 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\camembert\\configuration_camembert.py', reloading
+2025-05-25 19:59:31,359 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\camembert\\modeling_camembert.py', reloading
+2025-05-25 19:59:31,359 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\camembert\\modeling_camembert.py', reloading
+2025-05-25 19:59:31,359 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\camembert\\modeling_tf_camembert.py', reloading
+2025-05-25 19:59:31,359 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\camembert\\modeling_tf_camembert.py', reloading
+2025-05-25 19:59:31,359 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\camembert\\tokenization_camembert.py', reloading
+2025-05-25 19:59:31,359 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\camembert\\tokenization_camembert.py', reloading
+2025-05-25 19:59:31,368 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\camembert\\tokenization_camembert_fast.py', reloading
+2025-05-25 19:59:31,368 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\camembert\\tokenization_camembert_fast.py', reloading
+2025-05-25 19:59:31,368 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\canine\\configuration_canine.py', reloading
+2025-05-25 19:59:31,375 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\canine\\modeling_canine.py', reloading
+2025-05-25 19:59:31,375 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\canine\\modeling_canine.py', reloading
+2025-05-25 19:59:31,375 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\canine\\tokenization_canine.py', reloading
+2025-05-25 19:59:31,375 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\canine\\tokenization_canine.py', reloading
+2025-05-25 19:59:31,383 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\chameleon\\configuration_chameleon.py', reloading
+2025-05-25 19:59:31,383 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\chameleon\\configuration_chameleon.py', reloading
+2025-05-25 19:59:31,383 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\chameleon\\image_processing_chameleon.py', reloading
+2025-05-25 19:59:31,383 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\chameleon\\modeling_chameleon.py', reloading
+2025-05-25 19:59:31,383 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\chameleon\\modeling_chameleon.py', reloading
+2025-05-25 19:59:31,383 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\chameleon\\processing_chameleon.py', reloading
+2025-05-25 19:59:31,383 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\chameleon\\processing_chameleon.py', reloading
+2025-05-25 19:59:31,391 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\chinese_clip\\configuration_chinese_clip.py', reloading
+2025-05-25 19:59:31,391 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\chinese_clip\\configuration_chinese_clip.py', reloading
+2025-05-25 19:59:31,391 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\chinese_clip\\feature_extraction_chinese_clip.py', reloading
+2025-05-25 19:59:31,391 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\chinese_clip\\feature_extraction_chinese_clip.py', reloading
+2025-05-25 19:59:31,391 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\chinese_clip\\image_processing_chinese_clip.py', reloading
+2025-05-25 19:59:31,391 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\chinese_clip\\image_processing_chinese_clip.py', reloading
+2025-05-25 19:59:31,391 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\chinese_clip\\modeling_chinese_clip.py', reloading
+2025-05-25 19:59:31,391 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\chinese_clip\\modeling_chinese_clip.py', reloading
+2025-05-25 19:59:31,401 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\chinese_clip\\processing_chinese_clip.py', reloading
+2025-05-25 19:59:31,401 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\chinese_clip\\processing_chinese_clip.py', reloading
+2025-05-25 19:59:31,401 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clap\\configuration_clap.py', reloading
+2025-05-25 19:59:31,408 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clap\\configuration_clap.py', reloading
+2025-05-25 19:59:31,408 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clap\\feature_extraction_clap.py', reloading
+2025-05-25 19:59:31,408 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clap\\feature_extraction_clap.py', reloading
+2025-05-25 19:59:31,408 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clap\\modeling_clap.py', reloading
+2025-05-25 19:59:31,408 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clap\\modeling_clap.py', reloading
+2025-05-25 19:59:31,408 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clap\\processing_clap.py', reloading
+2025-05-25 19:59:31,408 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clap\\processing_clap.py', reloading
+2025-05-25 19:59:31,416 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clip\\configuration_clip.py', reloading
+2025-05-25 19:59:31,416 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clip\\configuration_clip.py', reloading
+2025-05-25 19:59:31,416 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clip\\feature_extraction_clip.py', reloading
+2025-05-25 19:59:31,416 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clip\\feature_extraction_clip.py', reloading
+2025-05-25 19:59:31,416 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clip\\image_processing_clip.py', reloading
+2025-05-25 19:59:31,416 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clip\\image_processing_clip_fast.py', reloading
+2025-05-25 19:59:31,424 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clip\\image_processing_clip.py', reloading
+2025-05-25 19:59:31,424 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clip\\modeling_clip.py', reloading
+2025-05-25 19:59:31,426 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clip\\image_processing_clip_fast.py', reloading
+2025-05-25 19:59:31,426 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clip\\modeling_clip.py', reloading
+2025-05-25 19:59:31,426 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clip\\modeling_flax_clip.py', reloading
+2025-05-25 19:59:31,426 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clip\\modeling_flax_clip.py', reloading
+2025-05-25 19:59:31,426 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clip\\modeling_tf_clip.py', reloading
+2025-05-25 19:59:31,426 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clip\\modeling_tf_clip.py', reloading
+2025-05-25 19:59:31,432 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clip\\processing_clip.py', reloading
+2025-05-25 19:59:31,432 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clip\\processing_clip.py', reloading
+2025-05-25 19:59:31,435 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clip\\tokenization_clip.py', reloading
+2025-05-25 19:59:31,435 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clip\\tokenization_clip.py', reloading
+2025-05-25 19:59:31,435 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clip\\tokenization_clip_fast.py', reloading
+2025-05-25 19:59:31,435 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clip\\tokenization_clip_fast.py', reloading
+2025-05-25 19:59:31,440 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clipseg\\configuration_clipseg.py', reloading
+2025-05-25 19:59:31,440 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clipseg\\configuration_clipseg.py', reloading
+2025-05-25 19:59:31,440 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clipseg\\modeling_clipseg.py', reloading
+2025-05-25 19:59:31,440 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clipseg\\modeling_clipseg.py', reloading
+2025-05-25 19:59:31,440 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clipseg\\processing_clipseg.py', reloading
+2025-05-25 19:59:31,440 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clipseg\\processing_clipseg.py', reloading
+2025-05-25 19:59:31,448 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clvp\\configuration_clvp.py', reloading
+2025-05-25 19:59:31,448 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clvp\\configuration_clvp.py', reloading
+2025-05-25 19:59:31,448 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clvp\\feature_extraction_clvp.py', reloading
+2025-05-25 19:59:31,448 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clvp\\modeling_clvp.py', reloading
+2025-05-25 19:59:31,448 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clvp\\modeling_clvp.py', reloading
+2025-05-25 19:59:31,448 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clvp\\number_normalizer.py', reloading
+2025-05-25 19:59:31,448 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clvp\\processing_clvp.py', reloading
+2025-05-25 19:59:31,448 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clvp\\number_normalizer.py', reloading
+2025-05-25 19:59:31,448 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clvp\\tokenization_clvp.py', reloading
+2025-05-25 19:59:31,457 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clvp\\processing_clvp.py', reloading
+2025-05-25 19:59:31,457 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\clvp\\tokenization_clvp.py', reloading
+2025-05-25 19:59:31,457 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\code_llama\\tokenization_code_llama.py', reloading
+2025-05-25 19:59:31,457 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\code_llama\\tokenization_code_llama.py', reloading
+2025-05-25 19:59:31,465 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\code_llama\\tokenization_code_llama_fast.py', reloading
+2025-05-25 19:59:31,465 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\code_llama\\tokenization_code_llama_fast.py', reloading
+2025-05-25 19:59:31,465 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\codegen\\configuration_codegen.py', reloading
+2025-05-25 19:59:31,465 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\codegen\\configuration_codegen.py', reloading
+2025-05-25 19:59:31,465 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\codegen\\modeling_codegen.py', reloading
+2025-05-25 19:59:31,465 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\codegen\\modeling_codegen.py', reloading
+2025-05-25 19:59:31,474 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\codegen\\tokenization_codegen.py', reloading
+2025-05-25 19:59:31,474 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\codegen\\tokenization_codegen.py', reloading
+2025-05-25 19:59:31,474 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\codegen\\tokenization_codegen_fast.py', reloading
+2025-05-25 19:59:31,476 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\codegen\\tokenization_codegen_fast.py', reloading
+2025-05-25 19:59:31,476 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cohere\\configuration_cohere.py', reloading
+2025-05-25 19:59:31,476 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cohere\\configuration_cohere.py', reloading
+2025-05-25 19:59:31,481 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cohere\\modeling_cohere.py', reloading
+2025-05-25 19:59:31,482 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cohere\\modeling_cohere.py', reloading
+2025-05-25 19:59:31,482 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cohere\\tokenization_cohere_fast.py', reloading
+2025-05-25 19:59:31,482 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cohere\\tokenization_cohere_fast.py', reloading
+2025-05-25 19:59:31,489 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cohere2\\configuration_cohere2.py', reloading
+2025-05-25 19:59:31,489 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cohere2\\configuration_cohere2.py', reloading
+2025-05-25 19:59:31,489 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cohere2\\modeling_cohere2.py', reloading
+2025-05-25 19:59:31,489 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cohere2\\modeling_cohere2.py', reloading
+2025-05-25 19:59:31,499 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\colpali\\configuration_colpali.py', reloading
+2025-05-25 19:59:31,499 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\colpali\\configuration_colpali.py', reloading
+2025-05-25 19:59:31,499 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\colpali\\modeling_colpali.py', reloading
+2025-05-25 19:59:31,499 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\colpali\\modeling_colpali.py', reloading
+2025-05-25 19:59:31,499 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\colpali\\processing_colpali.py', reloading
+2025-05-25 19:59:31,499 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\colpali\\processing_colpali.py', reloading
+2025-05-25 19:59:31,506 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\conditional_detr\\configuration_conditional_detr.py', reloading
+2025-05-25 19:59:31,506 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\conditional_detr\\configuration_conditional_detr.py', reloading
+2025-05-25 19:59:31,506 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\conditional_detr\\feature_extraction_conditional_detr.py', reloading
+2025-05-25 19:59:31,506 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\conditional_detr\\feature_extraction_conditional_detr.py', reloading
+2025-05-25 19:59:31,506 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\conditional_detr\\image_processing_conditional_detr.py', reloading
+2025-05-25 19:59:31,506 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\conditional_detr\\image_processing_conditional_detr.py', reloading
+2025-05-25 19:59:31,506 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\conditional_detr\\modeling_conditional_detr.py', reloading
+2025-05-25 19:59:31,506 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\conditional_detr\\modeling_conditional_detr.py', reloading
+2025-05-25 19:59:31,514 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convbert\\configuration_convbert.py', reloading
+2025-05-25 19:59:31,514 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convbert\\configuration_convbert.py', reloading
+2025-05-25 19:59:31,514 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convbert\\modeling_convbert.py', reloading
+2025-05-25 19:59:31,514 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convbert\\modeling_convbert.py', reloading
+2025-05-25 19:59:31,522 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convbert\\modeling_tf_convbert.py', reloading
+2025-05-25 19:59:31,522 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convbert\\modeling_tf_convbert.py', reloading
+2025-05-25 19:59:31,522 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convbert\\tokenization_convbert.py', reloading
+2025-05-25 19:59:31,522 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convbert\\tokenization_convbert.py', reloading
+2025-05-25 19:59:31,522 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convbert\\tokenization_convbert_fast.py', reloading
+2025-05-25 19:59:31,522 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convbert\\tokenization_convbert_fast.py', reloading
+2025-05-25 19:59:31,530 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convnext\\configuration_convnext.py', reloading
+2025-05-25 19:59:31,530 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convnext\\configuration_convnext.py', reloading
+2025-05-25 19:59:31,530 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convnext\\feature_extraction_convnext.py', reloading
+2025-05-25 19:59:31,530 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convnext\\image_processing_convnext.py', reloading
+2025-05-25 19:59:31,530 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convnext\\feature_extraction_convnext.py', reloading
+2025-05-25 19:59:31,530 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convnext\\image_processing_convnext_fast.py', reloading
+2025-05-25 19:59:31,530 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convnext\\image_processing_convnext.py', reloading
+2025-05-25 19:59:31,530 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convnext\\modeling_convnext.py', reloading
+2025-05-25 19:59:31,530 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convnext\\image_processing_convnext_fast.py', reloading
+2025-05-25 19:59:31,530 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convnext\\modeling_tf_convnext.py', reloading
+2025-05-25 19:59:31,530 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convnext\\modeling_convnext.py', reloading
+2025-05-25 19:59:31,538 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convnext\\modeling_tf_convnext.py', reloading
+2025-05-25 19:59:31,543 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convnextv2\\configuration_convnextv2.py', reloading
+2025-05-25 19:59:31,543 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convnextv2\\configuration_convnextv2.py', reloading
+2025-05-25 19:59:31,543 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convnextv2\\modeling_convnextv2.py', reloading
+2025-05-25 19:59:31,543 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convnextv2\\modeling_convnextv2.py', reloading
+2025-05-25 19:59:31,546 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convnextv2\\modeling_tf_convnextv2.py', reloading
+2025-05-25 19:59:31,546 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\convnextv2\\modeling_tf_convnextv2.py', reloading
+2025-05-25 19:59:31,554 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cpm\\tokenization_cpm.py', reloading
+2025-05-25 19:59:31,554 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cpm\\tokenization_cpm.py', reloading
+2025-05-25 19:59:31,554 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cpm\\tokenization_cpm_fast.py', reloading
+2025-05-25 19:59:31,554 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cpm\\tokenization_cpm_fast.py', reloading
+2025-05-25 19:59:31,562 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cpmant\\configuration_cpmant.py', reloading
+2025-05-25 19:59:31,562 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cpmant\\configuration_cpmant.py', reloading
+2025-05-25 19:59:31,565 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cpmant\\modeling_cpmant.py', reloading
+2025-05-25 19:59:31,570 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cpmant\\tokenization_cpmant.py', reloading
+2025-05-25 19:59:31,571 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cpmant\\tokenization_cpmant.py', reloading
+2025-05-25 19:59:31,579 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\ctrl\\configuration_ctrl.py', reloading
+2025-05-25 19:59:31,579 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\ctrl\\configuration_ctrl.py', reloading
+2025-05-25 19:59:31,580 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\ctrl\\modeling_ctrl.py', reloading
+2025-05-25 19:59:31,580 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\ctrl\\modeling_ctrl.py', reloading
+2025-05-25 19:59:31,580 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\ctrl\\modeling_tf_ctrl.py', reloading
+2025-05-25 19:59:31,580 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\ctrl\\tokenization_ctrl.py', reloading
+2025-05-25 19:59:31,580 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\ctrl\\tokenization_ctrl.py', reloading
+2025-05-25 19:59:31,589 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cvt\\configuration_cvt.py', reloading
+2025-05-25 19:59:31,589 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cvt\\configuration_cvt.py', reloading
+2025-05-25 19:59:31,589 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cvt\\modeling_cvt.py', reloading
+2025-05-25 19:59:31,589 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cvt\\modeling_cvt.py', reloading
+2025-05-25 19:59:31,589 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cvt\\modeling_tf_cvt.py', reloading
+2025-05-25 19:59:31,589 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\cvt\\modeling_tf_cvt.py', reloading
+2025-05-25 19:59:31,602 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dab_detr\\configuration_dab_detr.py', reloading
+2025-05-25 19:59:31,604 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dab_detr\\configuration_dab_detr.py', reloading
+2025-05-25 19:59:31,609 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dab_detr\\modeling_dab_detr.py', reloading
+2025-05-25 19:59:31,609 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dab_detr\\modeling_dab_detr.py', reloading
+2025-05-25 19:59:31,615 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dac\\configuration_dac.py', reloading
+2025-05-25 19:59:31,616 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dac\\feature_extraction_dac.py', reloading
+2025-05-25 19:59:31,616 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dac\\modeling_dac.py', reloading
+2025-05-25 19:59:31,620 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\data2vec\\configuration_data2vec_audio.py', reloading
+2025-05-25 19:59:31,620 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\data2vec\\configuration_data2vec_text.py', reloading
+2025-05-25 19:59:31,620 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\data2vec\\configuration_data2vec_vision.py', reloading
+2025-05-25 19:59:31,620 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\data2vec\\modeling_data2vec_audio.py', reloading
+2025-05-25 19:59:31,625 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\data2vec\\modeling_data2vec_text.py', reloading
+2025-05-25 19:59:31,625 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\data2vec\\modeling_data2vec_vision.py', reloading
+2025-05-25 19:59:31,629 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\data2vec\\modeling_tf_data2vec_vision.py', reloading
+2025-05-25 19:59:31,631 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dbrx\\configuration_dbrx.py', reloading
+2025-05-25 19:59:31,631 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dbrx\\modeling_dbrx.py', reloading
+2025-05-25 19:59:31,640 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deberta\\configuration_deberta.py', reloading
+2025-05-25 19:59:31,640 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deberta\\modeling_deberta.py', reloading
+2025-05-25 19:59:31,640 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deberta\\modeling_tf_deberta.py', reloading
+2025-05-25 19:59:31,640 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deberta\\tokenization_deberta.py', reloading
+2025-05-25 19:59:31,640 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deberta\\tokenization_deberta_fast.py', reloading
+2025-05-25 19:59:31,646 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deberta_v2\\configuration_deberta_v2.py', reloading
+2025-05-25 19:59:31,646 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deberta_v2\\modeling_deberta_v2.py', reloading
+2025-05-25 19:59:31,652 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deberta_v2\\modeling_tf_deberta_v2.py', reloading
+2025-05-25 19:59:31,657 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deberta_v2\\tokenization_deberta_v2.py', reloading
+2025-05-25 19:59:31,658 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deberta_v2\\tokenization_deberta_v2_fast.py', reloading
+2025-05-25 19:59:31,662 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\decision_transformer\\configuration_decision_transformer.py', reloading
+2025-05-25 19:59:31,668 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\decision_transformer\\modeling_decision_transformer.py', reloading
+2025-05-25 19:59:31,671 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deformable_detr\\configuration_deformable_detr.py', reloading
+2025-05-25 19:59:31,671 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deformable_detr\\feature_extraction_deformable_detr.py', reloading
+2025-05-25 19:59:31,673 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deformable_detr\\image_processing_deformable_detr.py', reloading
+2025-05-25 19:59:31,677 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deformable_detr\\image_processing_deformable_detr_fast.py', reloading
+2025-05-25 19:59:31,678 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deformable_detr\\modeling_deformable_detr.py', reloading
+2025-05-25 19:59:31,680 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deit\\configuration_deit.py', reloading
+2025-05-25 19:59:31,680 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deit\\feature_extraction_deit.py', reloading
+2025-05-25 19:59:31,680 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deit\\image_processing_deit.py', reloading
+2025-05-25 19:59:31,686 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deit\\image_processing_deit_fast.py', reloading
+2025-05-25 19:59:31,686 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deit\\modeling_deit.py', reloading
+2025-05-25 19:59:31,686 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\deit\\modeling_tf_deit.py', reloading
+2025-05-25 19:59:31,697 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\depth_anything\\configuration_depth_anything.py', reloading
+2025-05-25 19:59:31,701 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\depth_anything\\modeling_depth_anything.py', reloading
+2025-05-25 19:59:31,707 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\depth_pro\\configuration_depth_pro.py', reloading
+2025-05-25 19:59:31,708 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\depth_pro\\image_processing_depth_pro.py', reloading
+2025-05-25 19:59:31,709 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\depth_pro\\image_processing_depth_pro_fast.py', reloading
+2025-05-25 19:59:31,711 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\depth_pro\\modeling_depth_pro.py', reloading
+2025-05-25 19:59:31,716 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\detr\\configuration_detr.py', reloading
+2025-05-25 19:59:31,716 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\detr\\feature_extraction_detr.py', reloading
+2025-05-25 19:59:31,718 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\detr\\image_processing_detr.py', reloading
+2025-05-25 19:59:31,722 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\detr\\image_processing_detr_fast.py', reloading
+2025-05-25 19:59:31,724 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\detr\\modeling_detr.py', reloading
+2025-05-25 19:59:31,731 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\diffllama\\configuration_diffllama.py', reloading
+2025-05-25 19:59:31,734 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\diffllama\\modeling_diffllama.py', reloading
+2025-05-25 19:59:31,742 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dinat\\configuration_dinat.py', reloading
+2025-05-25 19:59:31,742 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dinat\\modeling_dinat.py', reloading
+2025-05-25 19:59:31,744 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dinov2\\configuration_dinov2.py', reloading
+2025-05-25 19:59:31,744 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dinov2\\modeling_dinov2.py', reloading
+2025-05-25 19:59:31,749 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dinov2\\modeling_flax_dinov2.py', reloading
+2025-05-25 19:59:31,753 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dinov2_with_registers\\configuration_dinov2_with_registers.py', reloading
+2025-05-25 19:59:31,755 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dinov2_with_registers\\modeling_dinov2_with_registers.py', reloading
+2025-05-25 19:59:31,760 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\distilbert\\configuration_distilbert.py', reloading
+2025-05-25 19:59:31,760 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\distilbert\\modeling_distilbert.py', reloading
+2025-05-25 19:59:31,760 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\distilbert\\modeling_flax_distilbert.py', reloading
+2025-05-25 19:59:31,760 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\distilbert\\modeling_tf_distilbert.py', reloading
+2025-05-25 19:59:31,766 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\distilbert\\tokenization_distilbert.py', reloading
+2025-05-25 19:59:31,766 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\distilbert\\tokenization_distilbert_fast.py', reloading
+2025-05-25 19:59:31,770 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\donut\\configuration_donut_swin.py', reloading
+2025-05-25 19:59:31,770 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\donut\\feature_extraction_donut.py', reloading
+2025-05-25 19:59:31,770 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\donut\\image_processing_donut.py', reloading
+2025-05-25 19:59:31,774 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\donut\\modeling_donut_swin.py', reloading
+2025-05-25 19:59:31,774 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\donut\\processing_donut.py', reloading
+2025-05-25 19:59:31,776 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dpr\\configuration_dpr.py', reloading
+2025-05-25 19:59:31,776 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dpr\\modeling_dpr.py', reloading
+2025-05-25 19:59:31,776 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dpr\\modeling_tf_dpr.py', reloading
+2025-05-25 19:59:31,776 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dpr\\tokenization_dpr.py', reloading
+2025-05-25 19:59:31,784 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dpr\\tokenization_dpr_fast.py', reloading
+2025-05-25 19:59:31,784 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dpt\\configuration_dpt.py', reloading
+2025-05-25 19:59:31,784 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dpt\\feature_extraction_dpt.py', reloading
+2025-05-25 19:59:31,784 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dpt\\image_processing_dpt.py', reloading
+2025-05-25 19:59:31,784 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\dpt\\modeling_dpt.py', reloading
+2025-05-25 19:59:31,794 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\efficientnet\\configuration_efficientnet.py', reloading
+2025-05-25 19:59:31,794 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\efficientnet\\image_processing_efficientnet.py', reloading
+2025-05-25 19:59:31,794 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\efficientnet\\modeling_efficientnet.py', reloading
+2025-05-25 19:59:31,794 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\electra\\configuration_electra.py', reloading
+2025-05-25 19:59:31,801 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\electra\\modeling_electra.py', reloading
+2025-05-25 19:59:31,801 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\electra\\modeling_flax_electra.py', reloading
+2025-05-25 19:59:31,801 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\electra\\modeling_tf_electra.py', reloading
+2025-05-25 19:59:31,801 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\electra\\tokenization_electra.py', reloading
+2025-05-25 19:59:31,810 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\electra\\tokenization_electra_fast.py', reloading
+2025-05-25 19:59:31,810 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\emu3\\configuration_emu3.py', reloading
+2025-05-25 19:59:31,815 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\emu3\\image_processing_emu3.py', reloading
+2025-05-25 19:59:31,818 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\emu3\\modeling_emu3.py', reloading
+2025-05-25 19:59:31,819 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\emu3\\processing_emu3.py', reloading
+2025-05-25 19:59:31,819 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\encodec\\configuration_encodec.py', reloading
+2025-05-25 19:59:31,819 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\encodec\\feature_extraction_encodec.py', reloading
+2025-05-25 19:59:31,827 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\encodec\\modeling_encodec.py', reloading
+2025-05-25 19:59:31,828 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\encoder_decoder\\configuration_encoder_decoder.py', reloading
+2025-05-25 19:59:31,828 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\encoder_decoder\\modeling_encoder_decoder.py', reloading
+2025-05-25 19:59:31,828 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\encoder_decoder\\modeling_flax_encoder_decoder.py', reloading
+2025-05-25 19:59:31,828 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\encoder_decoder\\modeling_tf_encoder_decoder.py', reloading
+2025-05-25 19:59:31,835 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\ernie\\configuration_ernie.py', reloading
+2025-05-25 19:59:31,835 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\ernie\\modeling_ernie.py', reloading
+2025-05-25 19:59:31,843 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\esm\\configuration_esm.py', reloading
+2025-05-25 19:59:31,843 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\esm\\modeling_esm.py', reloading
+2025-05-25 19:59:31,847 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\esm\\modeling_esmfold.py', reloading
+2025-05-25 19:59:31,847 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\esm\\modeling_tf_esm.py', reloading
+2025-05-25 19:59:31,851 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\esm\\tokenization_esm.py', reloading
+2025-05-25 19:59:31,852 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\falcon\\configuration_falcon.py', reloading
+2025-05-25 19:59:31,852 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\falcon\\modeling_falcon.py', reloading
+2025-05-25 19:59:31,859 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\falcon_mamba\\configuration_falcon_mamba.py', reloading
+2025-05-25 19:59:31,859 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\falcon_mamba\\modeling_falcon_mamba.py', reloading
+2025-05-25 19:59:31,859 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\fastspeech2_conformer\\configuration_fastspeech2_conformer.py', reloading
+2025-05-25 19:59:31,859 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\fastspeech2_conformer\\modeling_fastspeech2_conformer.py', reloading
+2025-05-25 19:59:31,868 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\fastspeech2_conformer\\tokenization_fastspeech2_conformer.py', reloading
+2025-05-25 19:59:31,872 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\flaubert\\configuration_flaubert.py', reloading
+2025-05-25 19:59:31,876 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\flaubert\\modeling_flaubert.py', reloading
+2025-05-25 19:59:31,876 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\flaubert\\modeling_tf_flaubert.py', reloading
+2025-05-25 19:59:31,880 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\flaubert\\tokenization_flaubert.py', reloading
+2025-05-25 19:59:31,884 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\flava\\configuration_flava.py', reloading
+2025-05-25 19:59:31,884 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\flava\\feature_extraction_flava.py', reloading
+2025-05-25 19:59:31,884 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\flava\\image_processing_flava.py', reloading
+2025-05-25 19:59:31,884 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\flava\\modeling_flava.py', reloading
+2025-05-25 19:59:31,884 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\flava\\processing_flava.py', reloading
+2025-05-25 19:59:31,892 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\fnet\\configuration_fnet.py', reloading
+2025-05-25 19:59:31,892 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\fnet\\modeling_fnet.py', reloading
+2025-05-25 19:59:31,892 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\fnet\\tokenization_fnet.py', reloading
+2025-05-25 19:59:31,892 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\fnet\\tokenization_fnet_fast.py', reloading
+2025-05-25 19:59:31,904 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\focalnet\\configuration_focalnet.py', reloading
+2025-05-25 19:59:31,904 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\focalnet\\modeling_focalnet.py', reloading
+2025-05-25 19:59:31,911 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\fsmt\\configuration_fsmt.py', reloading
+2025-05-25 19:59:31,912 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\fsmt\\modeling_fsmt.py', reloading
+2025-05-25 19:59:31,912 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\fsmt\\tokenization_fsmt.py', reloading
+2025-05-25 19:59:31,917 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\funnel\\configuration_funnel.py', reloading
+2025-05-25 19:59:31,917 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\funnel\\modeling_funnel.py', reloading
+2025-05-25 19:59:31,917 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\funnel\\modeling_tf_funnel.py', reloading
+2025-05-25 19:59:31,928 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\funnel\\tokenization_funnel.py', reloading
+2025-05-25 19:59:31,929 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\funnel\\tokenization_funnel_fast.py', reloading
+2025-05-25 19:59:31,929 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\fuyu\\configuration_fuyu.py', reloading
+2025-05-25 19:59:31,933 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\fuyu\\image_processing_fuyu.py', reloading
+2025-05-25 19:59:31,933 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\fuyu\\modeling_fuyu.py', reloading
+2025-05-25 19:59:31,933 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\fuyu\\processing_fuyu.py', reloading
+2025-05-25 19:59:31,942 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gemma\\configuration_gemma.py', reloading
+2025-05-25 19:59:31,942 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gemma\\modeling_flax_gemma.py', reloading
+2025-05-25 19:59:31,942 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gemma\\modeling_gemma.py', reloading
+2025-05-25 19:59:31,942 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gemma\\tokenization_gemma.py', reloading
+2025-05-25 19:59:31,942 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gemma\\tokenization_gemma_fast.py', reloading
+2025-05-25 19:59:31,950 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gemma2\\configuration_gemma2.py', reloading
+2025-05-25 19:59:31,950 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gemma2\\modeling_gemma2.py', reloading
+2025-05-25 19:59:31,959 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gemma3\\configuration_gemma3.py', reloading
+2025-05-25 19:59:31,960 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gemma3\\image_processing_gemma3.py', reloading
+2025-05-25 19:59:31,960 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gemma3\\image_processing_gemma3_fast.py', reloading
+2025-05-25 19:59:31,960 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gemma3\\modeling_gemma3.py', reloading
+2025-05-25 19:59:31,960 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gemma3\\processing_gemma3.py', reloading
+2025-05-25 19:59:31,960 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\git\\configuration_git.py', reloading
+2025-05-25 19:59:31,967 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\git\\modeling_git.py', reloading
+2025-05-25 19:59:31,967 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\git\\processing_git.py', reloading
+2025-05-25 19:59:31,967 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\glm\\configuration_glm.py', reloading
+2025-05-25 19:59:31,967 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\glm\\modeling_glm.py', reloading
+2025-05-25 19:59:31,974 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\glpn\\configuration_glpn.py', reloading
+2025-05-25 19:59:31,974 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\glpn\\feature_extraction_glpn.py', reloading
+2025-05-25 19:59:31,974 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\glpn\\image_processing_glpn.py', reloading
+2025-05-25 19:59:31,983 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\glpn\\modeling_glpn.py', reloading
+2025-05-25 19:59:31,983 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\got_ocr2\\configuration_got_ocr2.py', reloading
+2025-05-25 19:59:31,983 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\got_ocr2\\image_processing_got_ocr2.py', reloading
+2025-05-25 19:59:31,983 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\got_ocr2\\image_processing_got_ocr2_fast.py', reloading
+2025-05-25 19:59:31,983 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\got_ocr2\\modeling_got_ocr2.py', reloading
+2025-05-25 19:59:31,983 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\got_ocr2\\processing_got_ocr2.py', reloading
+2025-05-25 19:59:31,991 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gpt2\\configuration_gpt2.py', reloading
+2025-05-25 19:59:31,991 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gpt2\\modeling_flax_gpt2.py', reloading
+2025-05-25 19:59:31,991 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gpt2\\modeling_tf_gpt2.py', reloading
+2025-05-25 19:59:31,991 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gpt2\\tokenization_gpt2.py', reloading
+2025-05-25 19:59:31,991 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gpt2\\tokenization_gpt2_fast.py', reloading
+2025-05-25 19:59:31,999 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gpt2\\tokenization_gpt2_tf.py', reloading
+2025-05-25 19:59:31,999 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gpt_bigcode\\configuration_gpt_bigcode.py', reloading
+2025-05-25 19:59:31,999 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gpt_bigcode\\modeling_gpt_bigcode.py', reloading
+2025-05-25 19:59:32,007 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gpt_neo\\configuration_gpt_neo.py', reloading
+2025-05-25 19:59:32,007 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gpt_neo\\modeling_flax_gpt_neo.py', reloading
+2025-05-25 19:59:32,007 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gpt_neo\\modeling_gpt_neo.py', reloading
+2025-05-25 19:59:32,012 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gpt_neox\\configuration_gpt_neox.py', reloading
+2025-05-25 19:59:32,015 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gpt_neox\\modeling_gpt_neox.py', reloading
+2025-05-25 19:59:32,015 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gpt_neox\\tokenization_gpt_neox_fast.py', reloading
+2025-05-25 19:59:32,015 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gpt_neox_japanese\\configuration_gpt_neox_japanese.py', reloading
+2025-05-25 19:59:32,015 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gpt_neox_japanese\\modeling_gpt_neox_japanese.py', reloading
+2025-05-25 19:59:32,023 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gpt_neox_japanese\\tokenization_gpt_neox_japanese.py', reloading
+2025-05-25 19:59:32,026 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gpt_sw3\\tokenization_gpt_sw3.py', reloading
+2025-05-25 19:59:32,026 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gptj\\configuration_gptj.py', reloading
+2025-05-25 19:59:32,026 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gptj\\modeling_flax_gptj.py', reloading
+2025-05-25 19:59:32,032 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gptj\\modeling_gptj.py', reloading
+2025-05-25 19:59:32,032 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\gptj\\modeling_tf_gptj.py', reloading
+2025-05-25 19:59:32,040 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\granitemoe\\configuration_granitemoe.py', reloading
+2025-05-25 19:59:32,040 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\granitemoe\\modeling_granitemoe.py', reloading
+2025-05-25 19:59:32,040 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\granitemoeshared\\configuration_granitemoeshared.py', reloading
+2025-05-25 19:59:32,040 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\granitemoeshared\\modeling_granitemoeshared.py', reloading
+2025-05-25 19:59:32,050 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\grounding_dino\\configuration_grounding_dino.py', reloading
+2025-05-25 19:59:32,050 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\grounding_dino\\image_processing_grounding_dino.py', reloading
+2025-05-25 19:59:32,050 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\grounding_dino\\modeling_grounding_dino.py', reloading
+2025-05-25 19:59:32,056 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\grounding_dino\\processing_grounding_dino.py', reloading
+2025-05-25 19:59:32,064 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\groupvit\\configuration_groupvit.py', reloading
+2025-05-25 19:59:32,064 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\groupvit\\modeling_groupvit.py', reloading
+2025-05-25 19:59:32,064 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\groupvit\\modeling_tf_groupvit.py', reloading
+2025-05-25 19:59:32,072 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\helium\\configuration_helium.py', reloading
+2025-05-25 19:59:32,072 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\helium\\modeling_helium.py', reloading
+2025-05-25 19:59:32,072 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\herbert\\tokenization_herbert.py', reloading
+2025-05-25 19:59:32,072 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\herbert\\tokenization_herbert_fast.py', reloading
+2025-05-25 19:59:32,080 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\hiera\\configuration_hiera.py', reloading
+2025-05-25 19:59:32,080 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\hiera\\modeling_hiera.py', reloading
+2025-05-25 19:59:32,088 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\hubert\\configuration_hubert.py', reloading
+2025-05-25 19:59:32,088 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\hubert\\modeling_hubert.py', reloading
+2025-05-25 19:59:32,088 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\hubert\\modeling_tf_hubert.py', reloading
+2025-05-25 19:59:32,088 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\ibert\\configuration_ibert.py', reloading
+2025-05-25 19:59:32,096 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\ibert\\modeling_ibert.py', reloading
+2025-05-25 19:59:32,096 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\ibert\\quant_modules.py', reloading
+2025-05-25 19:59:32,105 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\idefics\\configuration_idefics.py', reloading
+2025-05-25 19:59:32,105 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\idefics\\image_processing_idefics.py', reloading
+2025-05-25 19:59:32,105 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\idefics\\modeling_idefics.py', reloading
+2025-05-25 19:59:32,105 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\idefics\\modeling_tf_idefics.py', reloading
+2025-05-25 19:59:32,105 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\idefics\\perceiver.py', reloading
+2025-05-25 19:59:32,113 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\idefics\\perceiver_tf.py', reloading
+2025-05-25 19:59:32,115 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\idefics\\processing_idefics.py', reloading
+2025-05-25 19:59:32,115 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\idefics\\vision.py', reloading
+2025-05-25 19:59:32,115 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\idefics\\vision_tf.py', reloading
+2025-05-25 19:59:32,115 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\idefics2\\configuration_idefics2.py', reloading
+2025-05-25 19:59:32,115 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\idefics2\\image_processing_idefics2.py', reloading
+2025-05-25 19:59:32,121 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\idefics2\\modeling_idefics2.py', reloading
+2025-05-25 19:59:32,122 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\idefics2\\processing_idefics2.py', reloading
+2025-05-25 19:59:32,130 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\idefics3\\configuration_idefics3.py', reloading
+2025-05-25 19:59:32,130 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\idefics3\\image_processing_idefics3.py', reloading
+2025-05-25 19:59:32,130 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\idefics3\\modeling_idefics3.py', reloading
+2025-05-25 19:59:32,130 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\idefics3\\processing_idefics3.py', reloading
+2025-05-25 19:59:32,138 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\ijepa\\configuration_ijepa.py', reloading
+2025-05-25 19:59:32,138 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\ijepa\\modeling_ijepa.py', reloading
+2025-05-25 19:59:32,138 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\imagegpt\\configuration_imagegpt.py', reloading
+2025-05-25 19:59:32,146 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\imagegpt\\feature_extraction_imagegpt.py', reloading
+2025-05-25 19:59:32,146 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\imagegpt\\image_processing_imagegpt.py', reloading
+2025-05-25 19:59:32,146 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\imagegpt\\modeling_imagegpt.py', reloading
+2025-05-25 19:59:32,146 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\informer\\configuration_informer.py', reloading
+2025-05-25 19:59:32,146 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\informer\\modeling_informer.py', reloading
+2025-05-25 19:59:32,154 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\instructblip\\configuration_instructblip.py', reloading
+2025-05-25 19:59:32,154 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\instructblip\\modeling_instructblip.py', reloading
+2025-05-25 19:59:32,162 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\instructblip\\processing_instructblip.py', reloading
+2025-05-25 19:59:32,162 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\jamba\\configuration_jamba.py', reloading
+2025-05-25 19:59:32,162 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\jamba\\modeling_jamba.py', reloading
+2025-05-25 19:59:32,170 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\jetmoe\\configuration_jetmoe.py', reloading
+2025-05-25 19:59:32,170 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\jetmoe\\modeling_jetmoe.py', reloading
+2025-05-25 19:59:32,178 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\kosmos2\\configuration_kosmos2.py', reloading
+2025-05-25 19:59:32,178 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\kosmos2\\modeling_kosmos2.py', reloading
+2025-05-25 19:59:32,178 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\kosmos2\\processing_kosmos2.py', reloading
+2025-05-25 19:59:32,186 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutlm\\configuration_layoutlm.py', reloading
+2025-05-25 19:59:32,186 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutlm\\modeling_layoutlm.py', reloading
+2025-05-25 19:59:32,194 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutlm\\modeling_tf_layoutlm.py', reloading
+2025-05-25 19:59:32,194 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutlm\\tokenization_layoutlm.py', reloading
+2025-05-25 19:59:32,194 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutlm\\tokenization_layoutlm_fast.py', reloading
+2025-05-25 19:59:32,202 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutlmv2\\configuration_layoutlmv2.py', reloading
+2025-05-25 19:59:32,202 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutlmv2\\feature_extraction_layoutlmv2.py', reloading
+2025-05-25 19:59:32,202 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutlmv2\\image_processing_layoutlmv2.py', reloading
+2025-05-25 19:59:32,202 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutlmv2\\modeling_layoutlmv2.py', reloading
+2025-05-25 19:59:32,202 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutlmv2\\processing_layoutlmv2.py', reloading
+2025-05-25 19:59:32,202 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutlmv2\\tokenization_layoutlmv2.py', reloading
+2025-05-25 19:59:32,210 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutlmv2\\tokenization_layoutlmv2_fast.py', reloading
+2025-05-25 19:59:32,210 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutlmv3\\configuration_layoutlmv3.py', reloading
+2025-05-25 19:59:32,218 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutlmv3\\feature_extraction_layoutlmv3.py', reloading
+2025-05-25 19:59:32,218 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutlmv3\\image_processing_layoutlmv3.py', reloading
+2025-05-25 19:59:32,218 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutlmv3\\modeling_layoutlmv3.py', reloading
+2025-05-25 19:59:32,218 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutlmv3\\modeling_tf_layoutlmv3.py', reloading
+2025-05-25 19:59:32,218 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutlmv3\\processing_layoutlmv3.py', reloading
+2025-05-25 19:59:32,226 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutlmv3\\tokenization_layoutlmv3.py', reloading
+2025-05-25 19:59:32,226 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutlmv3\\tokenization_layoutlmv3_fast.py', reloading
+2025-05-25 19:59:32,226 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutxlm\\processing_layoutxlm.py', reloading
+2025-05-25 19:59:32,234 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutxlm\\tokenization_layoutxlm.py', reloading
+2025-05-25 19:59:32,235 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\layoutxlm\\tokenization_layoutxlm_fast.py', reloading
+2025-05-25 19:59:32,235 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\led\\configuration_led.py', reloading
+2025-05-25 19:59:32,242 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\led\\modeling_led.py', reloading
+2025-05-25 19:59:32,242 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\led\\modeling_tf_led.py', reloading
+2025-05-25 19:59:32,250 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\led\\tokenization_led.py', reloading
+2025-05-25 19:59:32,250 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\led\\tokenization_led_fast.py', reloading
+2025-05-25 19:59:32,250 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\levit\\configuration_levit.py', reloading
+2025-05-25 19:59:32,250 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\levit\\feature_extraction_levit.py', reloading
+2025-05-25 19:59:32,258 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\levit\\image_processing_levit.py', reloading
+2025-05-25 19:59:32,258 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\levit\\modeling_levit.py', reloading
+2025-05-25 19:59:32,258 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\lilt\\configuration_lilt.py', reloading
+2025-05-25 19:59:32,258 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\lilt\\modeling_lilt.py', reloading
+2025-05-25 19:59:32,266 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llama\\configuration_llama.py', reloading
+2025-05-25 19:59:32,266 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llama\\modeling_flax_llama.py', reloading
+2025-05-25 19:59:32,266 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llama\\modeling_llama.py', reloading
+2025-05-25 19:59:32,266 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llama\\tokenization_llama.py', reloading
+2025-05-25 19:59:32,266 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llama\\tokenization_llama_fast.py', reloading
+2025-05-25 19:59:32,274 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llava\\configuration_llava.py', reloading
+2025-05-25 19:59:32,274 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llava\\image_processing_llava.py', reloading
+2025-05-25 19:59:32,274 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llava\\image_processing_llava_fast.py', reloading
+2025-05-25 19:59:32,274 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llava\\modeling_llava.py', reloading
+2025-05-25 19:59:32,282 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llava\\processing_llava.py', reloading
+2025-05-25 19:59:32,282 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llava_next\\configuration_llava_next.py', reloading
+2025-05-25 19:59:32,287 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llava_next\\image_processing_llava_next.py', reloading
+2025-05-25 19:59:32,287 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llava_next\\image_processing_llava_next_fast.py', reloading
+2025-05-25 19:59:32,287 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llava_next\\modeling_llava_next.py', reloading
+2025-05-25 19:59:32,287 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llava_next\\processing_llava_next.py', reloading
+2025-05-25 19:59:32,291 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llava_next_video\\configuration_llava_next_video.py', reloading
+2025-05-25 19:59:32,291 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llava_next_video\\image_processing_llava_next_video.py', reloading
+2025-05-25 19:59:32,291 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llava_next_video\\modeling_llava_next_video.py', reloading
+2025-05-25 19:59:32,299 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llava_next_video\\processing_llava_next_video.py', reloading
+2025-05-25 19:59:32,299 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llava_onevision\\configuration_llava_onevision.py', reloading
+2025-05-25 19:59:32,307 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llava_onevision\\image_processing_llava_onevision.py', reloading
+2025-05-25 19:59:32,307 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llava_onevision\\image_processing_llava_onevision_fast.py', reloading
+2025-05-25 19:59:32,307 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llava_onevision\\modeling_llava_onevision.py', reloading
+2025-05-25 19:59:32,307 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llava_onevision\\processing_llava_onevision.py', reloading
+2025-05-25 19:59:32,307 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\llava_onevision\\video_processing_llava_onevision.py', reloading
+2025-05-25 19:59:32,315 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\longformer\\configuration_longformer.py', reloading
+2025-05-25 19:59:32,315 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\longformer\\modeling_longformer.py', reloading
+2025-05-25 19:59:32,315 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\transformers\\models\\longformer\\modeling_tf_longformer.py', reloading
+2025-05-25 19:59:34,177 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-25 19:59:47,559 - WARNING -  * Debugger is active!
+2025-05-25 19:59:47,568 - INFO -  * Debugger PIN: 462-248-200
+2025-05-25 19:59:47,634 - INFO - 127.0.0.1 - - [25/May/2025 19:59:47] "GET / HTTP/1.1" 200 -
+2025-05-25 19:59:48,142 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-25 19:59:48,142 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-25 19:59:48,175 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-25 19:59:52,789 - WARNING -  * Debugger is active!
+2025-05-25 19:59:52,799 - INFO -  * Debugger PIN: 462-248-200
+2025-05-25 20:00:17,844 - WARNING -  * Debugger is active!
+2025-05-25 20:00:17,860 - INFO -  * Debugger PIN: 462-248-200
+2025-05-25 22:01:41,497 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\evaluate.py', reloading
+2025-05-25 22:01:41,497 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\evaluate.py', reloading
+2025-05-25 22:01:41,497 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\evaluate.py', reloading
+2025-05-25 22:01:44,148 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-25 22:01:44,304 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-25 22:02:21,592 - WARNING -  * Debugger is active!
+2025-05-25 22:02:21,594 - WARNING -  * Debugger is active!
+2025-05-25 22:02:21,595 - INFO -  * Debugger PIN: 462-248-200
+2025-05-25 22:02:21,597 - INFO -  * Debugger PIN: 462-248-200
+2025-05-25 22:02:21,787 - WARNING -  * Debugger is active!
+2025-05-25 22:02:21,791 - INFO -  * Debugger PIN: 462-248-200
+2025-05-25 22:36:46,450 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model.py', reloading
+2025-05-25 22:36:46,450 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model.py', reloading
+2025-05-25 22:36:46,464 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\main.py', reloading
+2025-05-25 22:36:46,464 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\main.py', reloading
+2025-05-25 22:36:46,464 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\main.py', reloading
+2025-05-25 22:36:46,464 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\main.py', reloading
+2025-05-25 22:36:46,464 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\ThreeInputModel.py', reloading
+2025-05-25 22:36:46,464 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\ThreeInputModel.py', reloading
+2025-05-25 22:36:46,480 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\ThreeInputModel.py', reloading
+2025-05-25 22:36:46,480 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\ThreeInputModel.py', reloading
+2025-05-25 22:36:46,480 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\__init__.py', reloading
+2025-05-25 22:36:46,480 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\__init__.py', reloading
+2025-05-25 22:36:46,480 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\__init__.py', reloading
+2025-05-25 22:36:46,480 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\__init__.py', reloading
+2025-05-25 22:36:46,480 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\__init__.py', reloading
+2025-05-25 22:36:46,480 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\__init__.py', reloading
+2025-05-25 22:36:48,107 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-25 22:37:38,622 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-25 22:37:38,622 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-25 22:37:38,622 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-25 22:37:48,245 - WARNING -  * Debugger is active!
+2025-05-25 22:37:48,257 - INFO -  * Debugger PIN: 462-248-200
+2025-05-25 22:37:48,349 - INFO - 127.0.0.1 - - [25/May/2025 22:37:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-25 22:37:48,363 - INFO - 127.0.0.1 - - [25/May/2025 22:37:48] "GET / HTTP/1.1" 200 -
+2025-05-25 22:38:11,951 - DEBUG - Начало сохранения файла
+2025-05-25 22:38:11,953 - DEBUG - Имя файла: data.xlsx
+2025-05-25 22:38:11,953 - DEBUG - Путь для сохранения: uploads\data.xlsx
+2025-05-25 22:38:11,956 - DEBUG - Файл успешно сохранён: uploads\data.xlsx
+2025-05-25 22:38:11,956 - DEBUG - Начало обработки файла
+2025-05-25 22:38:12,793 - DEBUG - [DEBUG] Read like Excel (.xlsx)
+2025-05-25 22:38:12,793 - DEBUG - Файл распакован
+2025-05-25 22:38:12,793 - DEBUG - Колонки в DataFrame: ['text', 'plus', 'minus', 'language', 'rating']
+2025-05-25 22:38:12,793 - DEBUG - Количество строк: 187
+2025-05-25 22:38:12,798 - DEBUG - Преобразование столбца 'plus'
+2025-05-25 22:38:12,800 - DEBUG - Преобразовано 187 строк в 'plus'
+2025-05-25 22:38:12,800 - DEBUG - Преобразование столбца 'minus'
+2025-05-25 22:38:12,801 - DEBUG - Преобразовано 187 строк в 'minus'
+2025-05-25 22:38:12,802 - DEBUG - Преобразование столбца 'text'
+2025-05-25 22:38:12,803 - DEBUG - Преобразовано 187 строк в 'text'
+2025-05-25 22:38:12,803 - DEBUG - Запуск предсказания
+2025-05-25 22:38:54,450 - DEBUG - Предсказание завершено, result: <class 'float'>, graph: <class 'plotly.graph_objs._figure.Figure'>
+2025-05-25 22:38:54,450 - DEBUG - Генерация Plotly-графика
+2025-05-25 22:38:54,869 - DEBUG - График сгенерирован
+2025-05-25 22:38:54,881 - INFO - 127.0.0.1 - - [25/May/2025 22:38:54] "POST / HTTP/1.1" 200 -
+2025-05-25 22:44:42,278 - ERROR - Не выбран файл
+2025-05-25 22:44:42,279 - INFO - 127.0.0.1 - - [25/May/2025 22:44:42] "POST / HTTP/1.1" 200 -
+2025-05-26 00:13:49,078 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\connectionpool.py', reloading
+2025-05-26 00:13:49,313 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\connection.py', reloading
+2025-05-26 00:13:49,379 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\http\\client.py', reloading
+2025-05-26 00:13:49,486 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\requests\\adapters.py', reloading
+2025-05-26 00:13:49,537 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\util\\retry.py', reloading
+2025-05-26 00:13:49,566 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\util\\util.py', reloading
+2025-05-26 00:13:49,597 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\requests\\api.py', reloading
+2025-05-26 00:13:49,628 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\requests\\sessions.py', reloading
+2025-05-26 00:13:51,326 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-26 08:05:22,628 - WARNING -  * Debugger is active!
+2025-05-26 08:05:22,632 - INFO -  * Debugger PIN: 462-248-200
+2025-05-26 10:59:51,191 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\main.py', reloading
+2025-05-26 11:01:31,424 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-26 11:01:31,424 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 11:01:31,440 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-26 11:02:12,353 - WARNING -  * Debugger is active!
+2025-05-26 11:02:12,353 - INFO -  * Debugger PIN: 462-248-200
+2025-05-26 11:03:48,346 - INFO - 127.0.0.1 - - [26/May/2025 11:03:48] "GET / HTTP/1.1" 200 -
+2025-05-26 11:04:05,565 - DEBUG - Начало сохранения файла
+2025-05-26 11:04:05,581 - DEBUG - Имя файла: data.xlsx
+2025-05-26 11:04:05,581 - DEBUG - Путь для сохранения: uploads\data.xlsx
+2025-05-26 11:04:05,587 - DEBUG - Файл успешно сохранён: uploads\data.xlsx
+2025-05-26 11:04:05,587 - DEBUG - Начало обработки файла
+2025-05-26 11:04:07,227 - DEBUG - [DEBUG] Read like Excel (.xlsx)
+2025-05-26 11:04:07,227 - DEBUG - Файл распакован
+2025-05-26 11:04:07,227 - DEBUG - Колонки в DataFrame: ['text', 'plus', 'minus', 'language', 'rating']
+2025-05-26 11:04:07,227 - DEBUG - Количество строк: 187
+2025-05-26 11:04:07,227 - DEBUG - Преобразование столбца 'plus'
+2025-05-26 11:04:07,227 - DEBUG - Преобразовано 187 строк в 'plus'
+2025-05-26 11:04:07,227 - DEBUG - Преобразование столбца 'minus'
+2025-05-26 11:04:07,236 - DEBUG - Преобразовано 187 строк в 'minus'
+2025-05-26 11:04:07,236 - DEBUG - Преобразование столбца 'text'
+2025-05-26 11:04:07,236 - DEBUG - Преобразовано 187 строк в 'text'
+2025-05-26 11:04:07,236 - DEBUG - Запуск предсказания
+2025-05-26 11:05:29,472 - DEBUG - Предсказание завершено, result: <class 'float'>, graph: <class 'plotly.graph_objs._figure.Figure'>
+2025-05-26 11:05:29,472 - DEBUG - Генерация Plotly-графика
+2025-05-26 11:05:30,475 - DEBUG - График сгенерирован
+2025-05-26 11:05:30,518 - INFO - 127.0.0.1 - - [26/May/2025 11:05:30] "POST / HTTP/1.1" 200 -
+2025-05-27 00:30:56,500 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\memory_profiler.py', reloading
+2025-05-27 00:30:56,508 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\memory_profiler.py', reloading
+2025-05-27 00:30:56,508 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\mprof.py', reloading
+2025-05-27 00:30:56,508 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\mprof.py', reloading
+2025-05-27 00:30:59,761 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-27 00:32:06,283 - WARNING -  * Debugger is active!
+2025-05-27 00:32:06,291 - INFO -  * Debugger PIN: 462-248-200
+2025-05-27 00:33:02,163 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\__init__.py', reloading
+2025-05-27 00:33:02,163 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\__init__.py', reloading
+2025-05-27 00:33:03,273 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-27 00:33:23,811 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-27 00:33:23,811 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 00:33:23,844 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-27 00:33:46,504 - WARNING -  * Debugger is active!
+2025-05-27 00:33:46,504 - INFO -  * Debugger PIN: 462-248-200
+2025-05-27 00:34:22,065 - INFO - 127.0.0.1 - - [27/May/2025 00:34:22] "GET / HTTP/1.1" 200 -
+2025-05-27 00:34:43,487 - DEBUG - Начало сохранения файла
+2025-05-27 00:34:43,487 - DEBUG - Имя файла: data.xlsx
+2025-05-27 00:34:43,487 - DEBUG - Путь для сохранения: uploads\data.xlsx
+2025-05-27 00:34:43,487 - DEBUG - Файл успешно сохранён: uploads\data.xlsx
+2025-05-27 00:34:43,487 - DEBUG - Начало обработки файла
+2025-05-27 00:34:45,135 - DEBUG - [DEBUG] Read like Excel (.xlsx)
+2025-05-27 00:34:45,135 - DEBUG - Файл распакован
+2025-05-27 00:34:45,135 - DEBUG - Колонки в DataFrame: ['text', 'plus', 'minus', 'language', 'rating']
+2025-05-27 00:34:45,135 - DEBUG - Количество строк: 187
+2025-05-27 00:34:45,135 - DEBUG - Преобразование столбца 'plus'
+2025-05-27 00:34:45,135 - DEBUG - Преобразовано 187 строк в 'plus'
+2025-05-27 00:34:45,135 - DEBUG - Преобразование столбца 'minus'
+2025-05-27 00:34:45,135 - DEBUG - Преобразовано 187 строк в 'minus'
+2025-05-27 00:34:45,135 - DEBUG - Преобразование столбца 'text'
+2025-05-27 00:34:45,140 - DEBUG - Преобразовано 187 строк в 'text'
+2025-05-27 00:34:45,140 - DEBUG - Запуск предсказания
+2025-05-27 00:35:49,497 - DEBUG - Предсказание завершено, result: <class 'float'>, graph: <class 'plotly.graph_objs._figure.Figure'>
+2025-05-27 00:35:49,498 - DEBUG - Генерация Plotly-графика
+2025-05-27 00:35:50,299 - DEBUG - График сгенерирован
+2025-05-27 00:35:50,345 - INFO - 127.0.0.1 - - [27/May/2025 00:35:50] "POST / HTTP/1.1" 200 -
+2025-05-27 00:46:29,809 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\IPython\\core\\interactiveshell.py', reloading
+2025-05-27 00:46:29,856 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\IPython\\core\\async_helpers.py', reloading
+2025-05-27 00:46:31,870 - INFO -  * Restarting with watchdog (windowsapi)
