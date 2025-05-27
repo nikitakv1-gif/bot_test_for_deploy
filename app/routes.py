@@ -103,3 +103,17 @@ def upload_file():
             return render_template("upload.html", result=f"Ошибка обработки: {str(e)}", graph=None, plot_div=None)
     
     return render_template("upload.html", result=None, graph=None, plot_div=None)
+
+@bp.route('/preview-excel', methods = ['POST'])
+def preview_file():
+    file = request.files.get('file')
+
+    if not file or not file.filename.endswith(('.xls','.xlsx')):
+        return 'Неверный формат файла', 400
+
+    try:
+        df = pd.read_excel(file)
+        html = df.head(10).to_html(classes='table table-bordered', index=False)
+        return html
+    except Exception as e:
+        return f'Ошибка при чтении файла: {e}', 400
