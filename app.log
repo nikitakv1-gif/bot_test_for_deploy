@@ -2508,3 +2508,453 @@ nks.py', reloading
 2025-05-27 00:46:29,809 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\IPython\\core\\interactiveshell.py', reloading
 2025-05-27 00:46:29,856 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\IPython\\core\\async_helpers.py', reloading
 2025-05-27 00:46:31,870 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-27 14:18:47,160 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-27 14:18:47,161 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 14:18:47,190 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-27 14:18:57,632 - WARNING -  * Debugger is active!
+2025-05-27 14:18:57,635 - INFO -  * Debugger PIN: 462-248-200
+2025-05-27 14:18:57,679 - INFO - 127.0.0.1 - - [27/May/2025 14:18:57] "GET / HTTP/1.1" 200 -
+2025-05-27 14:19:21,196 - DEBUG - Начало сохранения файла
+2025-05-27 14:19:21,197 - DEBUG - Имя файла: data.xlsx
+2025-05-27 14:19:21,197 - DEBUG - Путь для сохранения: uploads\data.xlsx
+2025-05-27 14:19:21,200 - DEBUG - Файл успешно сохранён: uploads\data.xlsx
+2025-05-27 14:19:21,201 - DEBUG - Начало обработки файла
+2025-05-27 14:19:21,748 - DEBUG - [DEBUG] Read like Excel (.xlsx)
+2025-05-27 14:19:21,749 - DEBUG - Файл распакован
+2025-05-27 14:19:21,749 - DEBUG - Колонки в DataFrame: ['text', 'plus', 'minus', 'language', 'rating']
+2025-05-27 14:19:21,749 - DEBUG - Количество строк: 187
+2025-05-27 14:19:21,754 - DEBUG - Преобразование столбца 'plus'
+2025-05-27 14:19:21,758 - DEBUG - Преобразовано 187 строк в 'plus'
+2025-05-27 14:19:21,758 - DEBUG - Преобразование столбца 'minus'
+2025-05-27 14:19:21,758 - DEBUG - Преобразовано 187 строк в 'minus'
+2025-05-27 14:19:21,758 - DEBUG - Преобразование столбца 'text'
+2025-05-27 14:19:21,758 - DEBUG - Преобразовано 187 строк в 'text'
+2025-05-27 14:19:21,759 - DEBUG - Запуск предсказания
+2025-05-27 14:19:54,684 - DEBUG - Предсказание завершено, result: <class 'float'>, graph: <class 'plotly.graph_objs._figure.Figure'>
+2025-05-27 14:19:54,685 - DEBUG - Генерация Plotly-графика
+2025-05-27 14:19:55,032 - DEBUG - График сгенерирован
+2025-05-27 14:19:55,044 - INFO - 127.0.0.1 - - [27/May/2025 14:19:55] "POST / HTTP/1.1" 200 -
+2025-05-27 14:23:14,607 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-27 14:23:14,607 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 14:23:14,617 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-27 14:23:25,370 - WARNING -  * Debugger is active!
+2025-05-27 14:23:25,377 - INFO -  * Debugger PIN: 462-248-200
+2025-05-27 14:23:38,898 - INFO - 127.0.0.1 - - [27/May/2025 14:23:38] "GET / HTTP/1.1" 200 -
+2025-05-27 14:23:44,718 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\app.py', reloading
+2025-05-27 14:23:44,727 - INFO - 127.0.0.1 - - [27/May/2025 14:23:44] "[35m[1mPOST /preview-excel HTTP/1.1[0m" 500 -
+2025-05-27 14:23:46,394 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-27 14:23:56,241 - WARNING -  * Debugger is active!
+2025-05-27 14:23:56,244 - INFO -  * Debugger PIN: 462-248-200
+2025-05-27 14:23:56,276 - INFO - 127.0.0.1 - - [27/May/2025 14:23:56] "[35m[1mPOST /preview-excel HTTP/1.1[0m" 500 -
+2025-05-27 14:24:17,260 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-27 14:24:17,260 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-27 14:24:17,260 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-27 14:24:17,260 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-27 14:24:18,034 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-27 14:24:32,984 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-27 14:24:32,984 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 14:24:32,999 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-27 14:24:43,400 - WARNING -  * Debugger is active!
+2025-05-27 14:24:43,405 - INFO -  * Debugger PIN: 462-248-200
+2025-05-27 14:24:46,370 - INFO - 127.0.0.1 - - [27/May/2025 14:24:46] "GET / HTTP/1.1" 200 -
+2025-05-27 14:24:50,539 - INFO - 127.0.0.1 - - [27/May/2025 14:24:50] "POST /preview-excel HTTP/1.1" 200 -
+2025-05-27 14:25:05,108 - INFO - 127.0.0.1 - - [27/May/2025 14:25:05] "POST /preview-excel HTTP/1.1" 200 -
+2025-05-27 14:25:09,485 - DEBUG - Начало сохранения файла
+2025-05-27 14:25:09,485 - DEBUG - Имя файла: data.xlsx
+2025-05-27 14:25:09,485 - DEBUG - Путь для сохранения: uploads\data.xlsx
+2025-05-27 14:25:09,486 - DEBUG - Файл успешно сохранён: uploads\data.xlsx
+2025-05-27 14:25:09,486 - DEBUG - Начало обработки файла
+2025-05-27 14:25:09,561 - DEBUG - [DEBUG] Read like Excel (.xlsx)
+2025-05-27 14:25:09,561 - DEBUG - Файл распакован
+2025-05-27 14:25:09,561 - DEBUG - Колонки в DataFrame: ['text', 'plus', 'minus', 'language', 'rating']
+2025-05-27 14:25:09,561 - DEBUG - Количество строк: 187
+2025-05-27 14:25:09,561 - DEBUG - Преобразование столбца 'plus'
+2025-05-27 14:25:09,562 - DEBUG - Преобразовано 187 строк в 'plus'
+2025-05-27 14:25:09,562 - DEBUG - Преобразование столбца 'minus'
+2025-05-27 14:25:09,562 - DEBUG - Преобразовано 187 строк в 'minus'
+2025-05-27 14:25:09,562 - DEBUG - Преобразование столбца 'text'
+2025-05-27 14:25:09,562 - DEBUG - Преобразовано 187 строк в 'text'
+2025-05-27 14:25:09,562 - DEBUG - Запуск предсказания
+2025-05-27 14:25:41,729 - DEBUG - Предсказание завершено, result: <class 'float'>, graph: <class 'plotly.graph_objs._figure.Figure'>
+2025-05-27 14:25:41,729 - DEBUG - Генерация Plotly-графика
+2025-05-27 14:25:41,744 - DEBUG - График сгенерирован
+2025-05-27 14:25:41,744 - INFO - 127.0.0.1 - - [27/May/2025 14:25:41] "POST / HTTP/1.1" 200 -
+2025-05-27 14:25:54,139 - INFO - 127.0.0.1 - - [27/May/2025 14:25:54] "POST /preview-excel HTTP/1.1" 200 -
+2025-05-27 14:26:06,592 - INFO - 127.0.0.1 - - [27/May/2025 14:26:06] "POST /preview-excel HTTP/1.1" 200 -
+2025-05-27 15:44:45,509 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\predict.py', reloading
+2025-05-27 15:44:45,509 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\predict.py', reloading
+2025-05-27 15:44:47,778 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-27 15:45:09,669 - WARNING -  * Debugger is active!
+2025-05-27 15:45:09,669 - INFO -  * Debugger PIN: 462-248-200
+2025-05-27 17:27:32,821 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\polib.py', reloading
+2025-05-27 17:27:32,830 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\polib.py', reloading
+2025-05-27 17:27:32,935 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\lingua\\__init__.py', reloading
+2025-05-27 17:27:32,935 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\lingua\\__init__.py', reloading
+2025-05-27 17:27:32,935 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\lingua\\__init__.py', reloading
+2025-05-27 17:27:32,944 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\lingua\\extract.py', reloading
+2025-05-27 17:27:32,944 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\lingua\\extract.py', reloading
+2025-05-27 17:27:32,944 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\lingua\\polint.py', reloading
+2025-05-27 17:27:32,944 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\lingua\\polint.py', reloading
+2025-05-27 17:27:32,944 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\lingua\\extractors\\__init__.py', reloading
+2025-05-27 17:27:32,944 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\lingua\\extractors\\__init__.py', reloading
+2025-05-27 17:27:32,951 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\lingua\\extractors\\__init__.py', reloading
+2025-05-27 17:27:32,953 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\lingua\\extractors\\babel.py', reloading
+2025-05-27 17:27:32,953 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\lingua\\extractors\\babel.py', reloading
+2025-05-27 17:27:32,953 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\lingua\\extractors\\compat.py', reloading
+2025-05-27 17:27:32,953 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\lingua\\extractors\\compat.py', reloading
+2025-05-27 17:27:32,953 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\lingua\\extractors\\python.py', reloading
+2025-05-27 17:27:32,953 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\lingua\\extractors\\python.py', reloading
+2025-05-27 17:27:32,961 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\lingua\\extractors\\xml.py', reloading
+2025-05-27 17:27:32,961 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\lingua\\extractors\\xml.py', reloading
+2025-05-27 17:27:32,962 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\lingua\\extractors\\zcml.py', reloading
+2025-05-27 17:27:32,962 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\lingua\\extractors\\zcml.py', reloading
+2025-05-27 17:27:35,281 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-27 17:27:57,227 - WARNING -  * Debugger is active!
+2025-05-27 17:27:57,227 - INFO -  * Debugger PIN: 462-248-200
+2025-05-27 17:36:37,218 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-27 17:36:37,220 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-27 17:36:37,222 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-27 17:36:39,158 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 20:56:24,528 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 20:56:24,532 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 20:56:24,565 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 20:56:46,333 - WARNING -  * Debugger is active!
+2025-05-30 20:56:46,347 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 20:56:46,445 - INFO - 127.0.0.1 - - [30/May/2025 20:56:46] "GET / HTTP/1.1" 200 -
+2025-05-30 20:56:51,356 - INFO - 127.0.0.1 - - [30/May/2025 20:56:51] "GET / HTTP/1.1" 200 -
+2025-05-30 20:56:54,520 - INFO - 127.0.0.1 - - [30/May/2025 20:56:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-30 20:58:28,078 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\app.py', reloading
+2025-05-30 20:58:29,778 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 20:58:57,026 - WARNING -  * Debugger is active!
+2025-05-30 20:58:57,047 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 20:58:57,177 - INFO - 127.0.0.1 - - [30/May/2025 20:58:57] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-05-30 20:58:57,425 - INFO - 127.0.0.1 - - [30/May/2025 20:58:57] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-30 20:58:57,429 - INFO - 127.0.0.1 - - [30/May/2025 20:58:57] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-30 20:58:58,659 - INFO - 127.0.0.1 - - [30/May/2025 20:58:58] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=gksnijIVhFEFbIB0C1Kk HTTP/1.1" 200 -
+2025-05-30 20:59:04,474 - INFO - 127.0.0.1 - - [30/May/2025 20:59:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-30 21:02:12,886 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 21:02:12,886 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 21:02:12,901 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 21:02:37,798 - WARNING -  * Debugger is active!
+2025-05-30 21:02:37,805 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 21:02:37,870 - INFO - 127.0.0.1 - - [30/May/2025 21:02:37] "GET / HTTP/1.1" 200 -
+2025-05-30 21:05:37,332 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 21:05:37,339 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 21:05:37,339 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 21:06:01,259 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 21:06:01,259 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 21:06:01,300 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 21:06:26,571 - WARNING -  * Debugger is active!
+2025-05-30 21:06:26,579 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 21:07:27,845 - INFO - 127.0.0.1 - - [30/May/2025 21:07:27] "GET / HTTP/1.1" 200 -
+2025-05-30 21:10:28,712 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 21:10:28,712 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 21:10:28,745 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 21:10:46,384 - WARNING -  * Debugger is active!
+2025-05-30 21:10:46,392 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 21:10:50,909 - INFO - 127.0.0.1 - - [30/May/2025 21:10:50] "GET / HTTP/1.1" 200 -
+2025-05-30 21:19:25,169 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 21:19:25,170 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 21:19:25,182 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 21:19:34,902 - WARNING -  * Debugger is active!
+2025-05-30 21:19:34,906 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 21:19:34,951 - INFO - 127.0.0.1 - - [30/May/2025 21:19:34] "GET / HTTP/1.1" 200 -
+2025-05-30 21:24:08,653 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 21:24:08,653 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 21:24:08,666 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 21:24:20,016 - WARNING -  * Debugger is active!
+2025-05-30 21:24:20,020 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 21:25:38,925 - INFO - 127.0.0.1 - - [30/May/2025 21:25:38] "GET / HTTP/1.1" 200 -
+2025-05-30 21:27:50,492 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 21:27:50,492 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 21:27:50,506 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 21:27:59,881 - WARNING -  * Debugger is active!
+2025-05-30 21:27:59,883 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 21:28:38,285 - INFO - 127.0.0.1 - - [30/May/2025 21:28:38] "GET / HTTP/1.1" 200 -
+2025-05-30 21:37:16,753 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 21:37:16,753 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 21:37:16,772 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 21:37:26,745 - WARNING -  * Debugger is active!
+2025-05-30 21:37:26,748 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 21:37:26,780 - INFO - 127.0.0.1 - - [30/May/2025 21:37:26] "GET / HTTP/1.1" 200 -
+2025-05-30 21:40:14,206 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 21:40:14,206 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 21:40:14,228 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 21:40:33,145 - WARNING -  * Debugger is active!
+2025-05-30 21:40:33,152 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 21:41:01,134 - INFO - 127.0.0.1 - - [30/May/2025 21:41:01] "GET / HTTP/1.1" 200 -
+2025-05-30 21:41:07,257 - INFO - 127.0.0.1 - - [30/May/2025 21:41:07] "POST / HTTP/1.1" 200 -
+2025-05-30 21:41:19,563 - INFO - 127.0.0.1 - - [30/May/2025 21:41:19] "POST / HTTP/1.1" 200 -
+2025-05-30 21:44:35,544 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\main.py', reloading
+2025-05-30 21:44:35,550 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\main.py', reloading
+2025-05-30 21:44:37,458 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 21:45:12,785 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 21:45:12,785 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 21:45:12,823 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 21:45:35,207 - WARNING -  * Debugger is active!
+2025-05-30 21:45:35,207 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 21:45:35,256 - INFO - 127.0.0.1 - - [30/May/2025 21:45:35] "GET / HTTP/1.1" 200 -
+2025-05-30 21:45:42,475 - INFO - 127.0.0.1 - - [30/May/2025 21:45:42] "POST / HTTP/1.1" 200 -
+2025-05-30 21:45:48,869 - INFO - 127.0.0.1 - - [30/May/2025 21:45:48] "POST / HTTP/1.1" 200 -
+2025-05-30 21:47:53,001 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 21:47:53,006 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 21:47:53,008 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 21:47:54,549 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 21:48:13,619 - WARNING -  * Debugger is active!
+2025-05-30 21:48:13,619 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 21:48:45,910 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 21:48:45,910 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 21:48:45,950 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 21:49:12,309 - WARNING -  * Debugger is active!
+2025-05-30 21:49:12,314 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 21:49:12,412 - INFO - 127.0.0.1 - - [30/May/2025 21:49:12] "GET / HTTP/1.1" 200 -
+2025-05-30 21:49:20,032 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\templating.py', reloading
+2025-05-30 21:49:20,067 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\jinja2\\environment.py', reloading
+2025-05-30 21:49:20,108 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\jinja2\\loaders.py', reloading
+2025-05-30 21:49:20,158 - INFO - 127.0.0.1 - - [30/May/2025 21:49:20] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-05-30 21:49:20,422 - INFO - 127.0.0.1 - - [30/May/2025 21:49:20] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-30 21:49:20,427 - INFO - 127.0.0.1 - - [30/May/2025 21:49:20] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-30 21:49:22,126 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 21:49:48,868 - WARNING -  * Debugger is active!
+2025-05-30 21:49:48,876 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 21:49:49,047 - INFO - 127.0.0.1 - - [30/May/2025 21:49:49] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=U4wEw02IanrXvtV0YLuQ HTTP/1.1" 200 -
+2025-05-30 21:49:49,087 - INFO - 127.0.0.1 - - [30/May/2025 21:49:49] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-30 21:52:16,193 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 21:52:16,199 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 21:52:16,201 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 21:52:17,239 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 21:52:35,770 - WARNING -  * Debugger is active!
+2025-05-30 21:52:35,770 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 21:53:00,410 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 21:53:00,418 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 21:53:00,444 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 21:53:26,472 - WARNING -  * Debugger is active!
+2025-05-30 21:53:26,480 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 21:53:26,570 - INFO - 127.0.0.1 - - [30/May/2025 21:53:26] "GET / HTTP/1.1" 200 -
+2025-05-30 21:53:32,718 - INFO - 127.0.0.1 - - [30/May/2025 21:53:32] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-05-30 21:53:32,933 - INFO - 127.0.0.1 - - [30/May/2025 21:53:32] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-30 21:53:32,941 - INFO - 127.0.0.1 - - [30/May/2025 21:53:32] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-30 21:53:33,254 - INFO - 127.0.0.1 - - [30/May/2025 21:53:33] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=TRUsxMiZfFjf6bGORswS HTTP/1.1" 200 -
+2025-05-30 21:53:33,410 - INFO - 127.0.0.1 - - [30/May/2025 21:53:33] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-30 21:54:36,300 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 21:54:36,307 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 21:54:36,307 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 21:54:37,676 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 21:55:07,605 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 21:55:07,605 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 21:55:07,630 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 21:55:31,629 - WARNING -  * Debugger is active!
+2025-05-30 21:55:31,637 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 21:55:31,735 - INFO - 127.0.0.1 - - [30/May/2025 21:55:31] "GET / HTTP/1.1" 200 -
+2025-05-30 21:55:36,147 - INFO - 127.0.0.1 - - [30/May/2025 21:55:36] "POST / HTTP/1.1" 200 -
+2025-05-30 22:04:21,285 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\predict.py', reloading
+2025-05-30 22:04:21,290 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\predict.py', reloading
+2025-05-30 22:04:21,290 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\predict.py', reloading
+2025-05-30 22:04:22,998 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 22:04:41,740 - WARNING -  * Debugger is active!
+2025-05-30 22:04:41,741 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 22:05:02,438 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 22:05:02,438 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 22:05:02,438 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 22:05:04,275 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 22:05:36,316 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 22:05:36,316 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 22:05:36,349 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 22:05:58,734 - WARNING -  * Debugger is active!
+2025-05-30 22:05:58,750 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 22:05:58,824 - INFO - 127.0.0.1 - - [30/May/2025 22:05:58] "GET / HTTP/1.1" 200 -
+2025-05-30 22:06:38,421 - INFO -  * Detected change in 'C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\app.py', reloading
+2025-05-30 22:06:38,453 - INFO - 127.0.0.1 - - [30/May/2025 22:06:38] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-05-30 22:06:39,640 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 22:06:57,341 - WARNING -  * Debugger is active!
+2025-05-30 22:06:57,349 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 22:06:57,414 - INFO - 127.0.0.1 - - [30/May/2025 22:06:57] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-30 22:09:22,280 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 22:09:22,288 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 22:09:22,289 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 22:09:23,967 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 22:09:54,723 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 22:09:54,723 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 22:09:54,760 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 22:10:20,921 - WARNING -  * Debugger is active!
+2025-05-30 22:10:20,929 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 22:10:21,025 - INFO - 127.0.0.1 - - [30/May/2025 22:10:21] "GET / HTTP/1.1" 200 -
+2025-05-30 22:11:10,415 - INFO - 127.0.0.1 - - [30/May/2025 22:11:10] "POST / HTTP/1.1" 200 -
+2025-05-30 22:13:11,127 - INFO - 127.0.0.1 - - [30/May/2025 22:13:11] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-05-30 22:13:11,305 - INFO - 127.0.0.1 - - [30/May/2025 22:13:11] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-30 22:13:11,305 - INFO - 127.0.0.1 - - [30/May/2025 22:13:11] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-30 22:13:11,330 - INFO - 127.0.0.1 - - [30/May/2025 22:13:11] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=ZYmpAwuANg7IBazlBDP1 HTTP/1.1" 200 -
+2025-05-30 22:13:12,618 - INFO - 127.0.0.1 - - [30/May/2025 22:13:12] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-30 22:17:39,687 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 22:17:39,694 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 22:17:39,694 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\app\\routes.py', reloading
+2025-05-30 22:17:41,145 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 22:18:17,548 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 22:18:17,548 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 22:18:17,583 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 22:18:36,951 - WARNING -  * Debugger is active!
+2025-05-30 22:18:36,958 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 22:18:37,024 - INFO - 127.0.0.1 - - [30/May/2025 22:18:37] "GET / HTTP/1.1" 200 -
+2025-05-30 22:19:13,942 - INFO - 127.0.0.1 - - [30/May/2025 22:19:13] "POST / HTTP/1.1" 200 -
+2025-05-30 22:19:53,864 - INFO - 127.0.0.1 - - [30/May/2025 22:19:53] "POST / HTTP/1.1" 200 -
+2025-05-30 22:25:28,740 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 22:25:28,740 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 22:25:28,753 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 22:25:37,273 - WARNING -  * Debugger is active!
+2025-05-30 22:25:37,277 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 22:25:37,313 - INFO - 127.0.0.1 - - [30/May/2025 22:25:37] "GET / HTTP/1.1" 200 -
+2025-05-30 22:25:47,613 - INFO - 127.0.0.1 - - [30/May/2025 22:25:47] "POST / HTTP/1.1" 200 -
+2025-05-30 22:26:55,568 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 22:26:55,568 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 22:26:55,581 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 22:27:04,435 - WARNING -  * Debugger is active!
+2025-05-30 22:27:04,437 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 22:27:04,466 - INFO - 127.0.0.1 - - [30/May/2025 22:27:04] "GET / HTTP/1.1" 200 -
+2025-05-30 22:27:10,006 - INFO - 127.0.0.1 - - [30/May/2025 22:27:10] "POST / HTTP/1.1" 200 -
+2025-05-30 22:27:14,950 - INFO - 127.0.0.1 - - [30/May/2025 22:27:14] "POST / HTTP/1.1" 200 -
+2025-05-30 22:27:30,428 - INFO - 127.0.0.1 - - [30/May/2025 22:27:30] "POST /preview-excel HTTP/1.1" 200 -
+2025-05-30 22:27:34,176 - DEBUG - Начало сохранения файла
+2025-05-30 22:27:34,186 - DEBUG - Имя файла: data.xlsx
+2025-05-30 22:27:34,186 - DEBUG - Путь для сохранения: uploads\data.xlsx
+2025-05-30 22:27:34,187 - DEBUG - Файл успешно сохранён: uploads\data.xlsx
+2025-05-30 22:27:34,187 - DEBUG - Начало обработки файла
+2025-05-30 22:27:34,231 - DEBUG - [DEBUG] Read like Excel (.xlsx)
+2025-05-30 22:27:34,231 - DEBUG - Файл распакован
+2025-05-30 22:27:34,231 - DEBUG - Колонки в DataFrame: ['text', 'plus', 'minus', 'language', 'rating']
+2025-05-30 22:27:34,231 - DEBUG - Количество строк: 187
+2025-05-30 22:27:34,231 - DEBUG - Преобразование столбца 'plus'
+2025-05-30 22:27:34,231 - DEBUG - Преобразовано 187 строк в 'plus'
+2025-05-30 22:27:34,231 - DEBUG - Преобразование столбца 'minus'
+2025-05-30 22:27:34,232 - DEBUG - Преобразовано 187 строк в 'minus'
+2025-05-30 22:27:34,232 - DEBUG - Преобразование столбца 'text'
+2025-05-30 22:27:34,232 - DEBUG - Преобразовано 187 строк в 'text'
+2025-05-30 22:27:34,232 - DEBUG - Запуск предсказания
+2025-05-30 22:27:47,000 - INFO - 127.0.0.1 - - [30/May/2025 22:27:47] "POST /preview-excel HTTP/1.1" 200 -
+2025-05-30 22:28:07,634 - DEBUG - Предсказание завершено, result: <class 'float'>, graph: <class 'plotly.graph_objs._figure.Figure'>
+2025-05-30 22:28:07,634 - DEBUG - Генерация Plotly-графика
+2025-05-30 22:28:08,029 - DEBUG - График сгенерирован
+2025-05-30 22:28:08,042 - INFO - 127.0.0.1 - - [30/May/2025 22:28:08] "POST / HTTP/1.1" 200 -
+2025-05-30 22:28:15,456 - INFO - 127.0.0.1 - - [30/May/2025 22:28:15] "POST /preview-excel HTTP/1.1" 200 -
+2025-05-30 22:28:17,211 - DEBUG - Начало сохранения файла
+2025-05-30 22:28:17,211 - DEBUG - Имя файла: data.xlsx
+2025-05-30 22:28:17,211 - DEBUG - Путь для сохранения: uploads\data.xlsx
+2025-05-30 22:28:17,212 - DEBUG - Файл успешно сохранён: uploads\data.xlsx
+2025-05-30 22:28:17,212 - DEBUG - Начало обработки файла
+2025-05-30 22:28:17,262 - DEBUG - [DEBUG] Read like Excel (.xlsx)
+2025-05-30 22:28:17,262 - DEBUG - Файл распакован
+2025-05-30 22:28:17,262 - DEBUG - Колонки в DataFrame: ['text', 'plus', 'minus', 'language', 'rating']
+2025-05-30 22:28:17,262 - DEBUG - Количество строк: 187
+2025-05-30 22:28:17,262 - DEBUG - Преобразование столбца 'plus'
+2025-05-30 22:28:17,262 - DEBUG - Преобразовано 187 строк в 'plus'
+2025-05-30 22:28:17,262 - DEBUG - Преобразование столбца 'minus'
+2025-05-30 22:28:17,264 - DEBUG - Преобразовано 187 строк в 'minus'
+2025-05-30 22:28:17,264 - DEBUG - Преобразование столбца 'text'
+2025-05-30 22:28:17,264 - DEBUG - Преобразовано 187 строк в 'text'
+2025-05-30 22:28:17,264 - DEBUG - Запуск предсказания
+2025-05-30 22:28:47,976 - DEBUG - Предсказание завершено, result: <class 'float'>, graph: <class 'plotly.graph_objs._figure.Figure'>
+2025-05-30 22:28:47,976 - DEBUG - Генерация Plotly-графика
+2025-05-30 22:28:47,990 - DEBUG - График сгенерирован
+2025-05-30 22:28:48,004 - INFO - 127.0.0.1 - - [30/May/2025 22:28:48] "POST / HTTP/1.1" 200 -
+2025-05-30 22:29:50,651 - INFO - 127.0.0.1 - - [30/May/2025 22:29:50] "POST / HTTP/1.1" 200 -
+2025-05-30 22:30:33,218 - INFO - 127.0.0.1 - - [30/May/2025 22:30:33] "POST / HTTP/1.1" 200 -
+2025-05-30 22:31:22,161 - INFO - 127.0.0.1 - - [30/May/2025 22:31:22] "POST / HTTP/1.1" 200 -
+2025-05-30 22:32:00,510 - INFO - 127.0.0.1 - - [30/May/2025 22:32:00] "POST / HTTP/1.1" 200 -
+2025-05-30 22:32:38,509 - INFO - 127.0.0.1 - - [30/May/2025 22:32:38] "POST / HTTP/1.1" 200 -
+2025-05-30 22:33:20,122 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\predict.py', reloading
+2025-05-30 22:33:20,125 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\predict.py', reloading
+2025-05-30 22:33:20,126 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\predict.py', reloading
+2025-05-30 22:33:21,681 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 22:33:32,427 - WARNING -  * Debugger is active!
+2025-05-30 22:33:32,429 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 22:33:42,821 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 22:33:42,821 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 22:33:42,837 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 22:33:51,376 - WARNING -  * Debugger is active!
+2025-05-30 22:33:51,378 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 22:34:09,333 - INFO - 127.0.0.1 - - [30/May/2025 22:34:09] "GET / HTTP/1.1" 200 -
+2025-05-30 22:34:42,983 - INFO - 127.0.0.1 - - [30/May/2025 22:34:42] "POST / HTTP/1.1" 200 -
+2025-05-30 22:34:50,521 - INFO - 127.0.0.1 - - [30/May/2025 22:34:50] "POST /preview-excel HTTP/1.1" 200 -
+2025-05-30 22:34:52,726 - DEBUG - Начало сохранения файла
+2025-05-30 22:34:52,726 - DEBUG - Имя файла: data.xlsx
+2025-05-30 22:34:52,726 - DEBUG - Путь для сохранения: uploads\data.xlsx
+2025-05-30 22:34:52,727 - DEBUG - Файл успешно сохранён: uploads\data.xlsx
+2025-05-30 22:34:52,727 - DEBUG - Начало обработки файла
+2025-05-30 22:34:52,779 - DEBUG - [DEBUG] Read like Excel (.xlsx)
+2025-05-30 22:34:52,780 - DEBUG - Файл распакован
+2025-05-30 22:34:52,780 - DEBUG - Колонки в DataFrame: ['text', 'plus', 'minus', 'language', 'rating']
+2025-05-30 22:34:52,780 - DEBUG - Количество строк: 187
+2025-05-30 22:34:52,780 - DEBUG - Преобразование столбца 'plus'
+2025-05-30 22:34:52,780 - DEBUG - Преобразовано 187 строк в 'plus'
+2025-05-30 22:34:52,780 - DEBUG - Преобразование столбца 'minus'
+2025-05-30 22:34:52,780 - DEBUG - Преобразовано 187 строк в 'minus'
+2025-05-30 22:34:52,780 - DEBUG - Преобразование столбца 'text'
+2025-05-30 22:34:52,780 - DEBUG - Преобразовано 187 строк в 'text'
+2025-05-30 22:34:52,780 - DEBUG - Запуск предсказания
+2025-05-30 22:35:21,550 - DEBUG - Предсказание завершено, result: <class 'float'>, graph: <class 'plotly.graph_objs._figure.Figure'>
+2025-05-30 22:35:21,550 - DEBUG - Генерация Plotly-графика
+2025-05-30 22:35:21,570 - DEBUG - График сгенерирован
+2025-05-30 22:35:21,583 - INFO - 127.0.0.1 - - [30/May/2025 22:35:21] "POST / HTTP/1.1" 200 -
+2025-05-30 22:35:59,650 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\predict.py', reloading
+2025-05-30 22:35:59,651 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\predict.py', reloading
+2025-05-30 22:35:59,651 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\model\\predict.py', reloading
+2025-05-30 22:36:00,925 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 22:36:13,436 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 22:36:13,437 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 22:36:13,445 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 22:36:22,653 - WARNING -  * Debugger is active!
+2025-05-30 22:36:22,656 - INFO -  * Debugger PIN: 462-248-200
+2025-05-30 22:36:22,700 - INFO - 127.0.0.1 - - [30/May/2025 22:36:22] "GET / HTTP/1.1" 200 -
+2025-05-30 22:37:02,566 - INFO - 127.0.0.1 - - [30/May/2025 22:37:02] "POST / HTTP/1.1" 200 -
+2025-05-30 22:39:23,432 - INFO - 127.0.0.1 - - [30/May/2025 22:39:23] "POST /preview-excel HTTP/1.1" 200 -
+2025-05-30 22:39:25,992 - DEBUG - Начало сохранения файла
+2025-05-30 22:39:25,992 - DEBUG - Имя файла: data.xlsx
+2025-05-30 22:39:25,993 - DEBUG - Путь для сохранения: uploads\data.xlsx
+2025-05-30 22:39:25,993 - DEBUG - Файл успешно сохранён: uploads\data.xlsx
+2025-05-30 22:39:25,993 - DEBUG - Начало обработки файла
+2025-05-30 22:39:26,052 - DEBUG - [DEBUG] Read like Excel (.xlsx)
+2025-05-30 22:39:26,052 - DEBUG - Файл распакован
+2025-05-30 22:39:26,052 - DEBUG - Колонки в DataFrame: ['text', 'plus', 'minus', 'language', 'rating']
+2025-05-30 22:39:26,053 - DEBUG - Количество строк: 187
+2025-05-30 22:39:26,053 - DEBUG - Преобразование столбца 'plus'
+2025-05-30 22:39:26,053 - DEBUG - Преобразовано 187 строк в 'plus'
+2025-05-30 22:39:26,053 - DEBUG - Преобразование столбца 'minus'
+2025-05-30 22:39:26,053 - DEBUG - Преобразовано 187 строк в 'minus'
+2025-05-30 22:39:26,053 - DEBUG - Преобразование столбца 'text'
+2025-05-30 22:39:26,055 - DEBUG - Преобразовано 187 строк в 'text'
+2025-05-30 22:39:26,055 - DEBUG - Запуск предсказания
+2025-05-30 22:39:56,537 - DEBUG - Предсказание завершено, result: <class 'float'>, graph: <class 'plotly.graph_objs._figure.Figure'>
+2025-05-30 22:39:56,537 - DEBUG - Генерация Plotly-графика
+2025-05-30 22:39:56,554 - DEBUG - График сгенерирован
+2025-05-30 22:39:56,567 - INFO - 127.0.0.1 - - [30/May/2025 22:39:56] "POST / HTTP/1.1" 200 -
+2025-05-30 22:40:32,232 - INFO - 127.0.0.1 - - [30/May/2025 22:40:32] "POST / HTTP/1.1" 200 -
+2025-05-30 22:41:22,067 - INFO - 127.0.0.1 - - [30/May/2025 22:41:22] "POST / HTTP/1.1" 200 -
+2025-05-30 22:41:31,579 - INFO - 127.0.0.1 - - [30/May/2025 22:41:31] "POST / HTTP/1.1" 200 -
+2025-05-30 22:42:08,898 - INFO - 127.0.0.1 - - [30/May/2025 22:42:08] "POST / HTTP/1.1" 200 -
+2025-05-30 22:43:03,991 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\main.py', reloading
+2025-05-30 22:43:03,992 - INFO -  * Detected change in 'D:\\University\\Samsung\\project\\main.py', reloading
+2025-05-30 22:43:05,467 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 22:43:21,317 - WARNING -  * Debugger is active!
+2025-05-30 22:43:21,320 - INFO -  * Debugger PIN: 462-248-200

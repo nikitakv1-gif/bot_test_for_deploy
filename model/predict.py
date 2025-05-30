@@ -96,6 +96,8 @@ def predict(model, tokenizer, emotion_model, emotion_tokenizer, texts, plus_text
             dis += 1
         else:
             neu += 1
+    if len(NPS) == 1:
+        return str(abs(NPS[0]))
     graph = px.histogram(
     x=NPS,
     template='plotly_white',
