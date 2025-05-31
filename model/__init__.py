@@ -3,7 +3,7 @@ from model.dataset import ReviewsDataset
 import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import os
-from memory_profiler import memory_usage
+# from memory_profiler import memory_usage
 from huggingface_hub import hf_hub_download
 import torch
 
