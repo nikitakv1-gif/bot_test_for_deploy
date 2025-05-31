@@ -24,7 +24,7 @@ def model():
         model.load_state_dict(torch.load(model_path, map_location='cpu'))
     model.eval()
     tokenizer = AutoTokenizer.from_pretrained(path_to_tokenizer)
-    emotion_model = "blanchefort/rubert-base-cased-sentiment"
+    emotion_model = "cointegrated/rubert-tiny-sentiment-balanced"
     emotion_tokenizer = AutoTokenizer.from_pretrained(emotion_model)
     model_sent = AutoModelForSequenceClassification.from_pretrained(emotion_model)
     model_sent.eval()
