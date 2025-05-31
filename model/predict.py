@@ -82,9 +82,9 @@ def predict(model, tokenizer, emotion_model, emotion_tokenizer, texts, plus_text
     for i in range(len(star)):
         star_h = star[i]
         emo_h = emo[i]
-        emo_h_n = emo_h[0]
-        emo_h_p = emo_h[1]
-        emo_h_nega = emo_h[2]
+        emo_h_n = emo_h[1]
+        emo_h_p = emo_h[2]
+        emo_h_nega = emo_h[0]
         emo_avg = (emo_h_p - emo_h_nega + 1/2*emo_h_n)
         nps_score = round((star[i]-1)/4 * emo_avg,1)
         if nps_score < 0:
