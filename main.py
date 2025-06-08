@@ -15,7 +15,14 @@ app.config['excel_work'] = excel_work
 
 application = app
 
+application = app
+
 if __name__ == "__main__":
-    # app.run(debug = True)
-    port = int(os.environ.get("PORT", 4000))
+<<<<<<< HEAD:main.py
+    app.run(debug = True)
+    # port = int(os.environ.get("PORT", 4000))
+    # app.run(host = "0.0.0.0", port = port)
+=======
+    port = int(os.environ,get("PORT", 4000))
     app.run(host = "0.0.0.0", port = port)
+>>>>>>> 518596a (Update model.py):model.py

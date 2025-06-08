@@ -28,7 +28,7 @@ def get_emotion_logits_from_full_text(model_sent, emotion_tokenizer, text, plus_
 
     return avg_logits
 
-def predict(model, tokenizer, emotion_model, emotion_tokenizer, excel_work, texts, plus_texts=None, minus_texts=None, max_length=46, device='cpu'):
+def predict(model, tokenizer, emotion_model, emotion_tokenizer, excel_work = None, texts=None, plus_texts=None, minus_texts=None, max_length=46, device='cpu'):
     device = torch.device(device)
     model.eval()
     with torch.no_grad():
@@ -86,6 +86,7 @@ def predict(model, tokenizer, emotion_model, emotion_tokenizer, excel_work, text
         emo_h_n = emo_h[1]
         emo_h_p = emo_h[2]
         emo_h_nega = emo_h[0]
+        print(star_h, emo_h_nega, emo_h_n,emo_h_p)
         emo_avg = (emo_h_p - emo_h_nega + 1/2*emo_h_n)
         nps_score = round((star[i]-1)/4 * emo_avg,1)
         if nps_score < 0:

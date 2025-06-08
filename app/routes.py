@@ -135,7 +135,7 @@ def upload_file():
             text = [request.form.get('commentText', '')]
             plus = [request.form.get('prosText', '')]
             minus = [request.form.get('consText', '')]
-            result = predict(model, tokenizer, model_sent, emotion_tokenizer, text, plus, minus)
+            result = predict(model, tokenizer, model_sent, emotion_tokenizer, texts= text, plus_texts= plus, minus_texts=minus)
 
             
             return render_template("upload.html", 
