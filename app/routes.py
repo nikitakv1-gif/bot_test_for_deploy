@@ -1,11 +1,13 @@
 import logging
-from flask import Blueprint, request, render_template, current_app
+from flask import Blueprint, request, render_template, current_app, send_file
 import os
 from werkzeug.utils import secure_filename
 import pandas as pd
 import plotly
 from .unpack import unpack, list_to_string
 from model.predict import predict
+from database.db import DataBase
+from io import BytesIO
 
 # Настройка логирования
 logging.basicConfig(
@@ -24,6 +26,25 @@ def upload_file():
     result = None
     graph = None
     plot_div = None
+    db = DataBase('reviews_nps')
+
+    model = current_app.config["model"]
+    tokenizer = current_app.config["tokenizer"]
+    model_sent = current_app.config["model_sent"]
+    emotion_tokenizer = current_app.config['emotion_tokenizer']
+    excel_work = current_app.config['excel_work']
+
+    if request.method == 'POST':
+        if 'submit_score' in request.form:
+            user_score = request.form.get("user_score")
+            text = request.form.get('commentText')
+            plus = request.form.get('prosText')
+            minus = request.form.get('consText')
+            result = float(request.form.get('result', 0))
+
+            db.append_table(text, plus, minus, result, user_score)
+            logger.info(f"Получен пользовательский NPS: {user_score}")
+            return render_template("upload.html", selected_input_type='text', result="Спасибо за вашу оценку!")
 
     if request.method == "POST":
         input_type = request.form.get("inputType")
@@ -87,32 +108,42 @@ def upload_file():
                 logger.debug(f"Преобразовано {len(text)} строк в 'text'")
                 
                 logger.debug("Запуск предсказания")
-                model = current_app.config["model"]
-                tokenizer = current_app.config["tokenizer"]
-                model_sent = current_app.config["model_sent"]
-                emotion_tokenizer = current_app.config['emotion_tokenizer']
-                result, graph = predict(model, tokenizer, model_sent, emotion_tokenizer, text, plus, minus)
+                result, graph, f = predict(model, tokenizer, model_sent, emotion_tokenizer, excel_work, text, plus, minus)
                 logger.debug(f"Предсказание завершено, result: {type(result)}, graph: {type(graph)}")
                 
                 logger.debug("Генерация Plotly-графика")
                 plot_div = plotly.io.to_html(graph, full_html=False)
                 logger.debug("График сгенерирован")
+
+
+
+                current_app.config['data'] = {
+                "data": f[0].getvalue(),
+                "mimetype":f[1],
+                "filename" : filename}
                 
-                return render_template("upload.html", selected_input_type='file', result=round(result,2), graph=plot_div, plot_div=plot_div)
+                return render_template("upload.html", 
+                                        selected_input_type='file', 
+                                        result=round(result,2), 
+                                        graph=plot_div, 
+                                        file_avaliable = True)
             
             except Exception as e:
                 logger.error(f"Ошибка при обработке файла: {str(e)}")
                 return render_template("upload.html", selected_input_type='file', result=f"Ошибка обработки: {str(e)}", graph=None, plot_div=None)
         else:
-            model = current_app.config["model"]
-            tokenizer = current_app.config["tokenizer"]
-            model_sent = current_app.config["model_sent"]
-            emotion_tokenizer = current_app.config['emotion_tokenizer']
             text = [request.form.get('commentText', '')]
             plus = [request.form.get('prosText', '')]
             minus = [request.form.get('consText', '')]
             result = predict(model, tokenizer, model_sent, emotion_tokenizer, text, plus, minus)
-            return render_template("upload.html", selected_input_type='text', result=result)
+
+            
+            return render_template("upload.html", 
+                                    selected_input_type='text', 
+                                    result=result,
+                                    commentText=text,
+                                    prosText=plus,
+                                    consText=minus)
     
     return render_template("upload.html", result=None, graph=None, plot_div=None)
 
@@ -129,3 +160,17 @@ def preview_file():
         return html
     except Exception as e:
         return f'Ошибка при чтении файла: {e}', 400
+
+@bp.route('/download_excel')
+
+def download_excel():
+    excel_data = current_app.config.get('data')
+
+    if not excel_data:
+        return "Мы не нашли файл", 404
+
+    return send_file(
+        BytesIO(excel_data['data']),
+        mimetype = excel_data['mimetype'],
+        as_attachment = True,
+        download_name = excel_data['filename'])

@@ -116,7 +116,40 @@
         {% endif %}
 
         {% if result %}
-        <h3 class="mt-5">Результат: {{ result }}</h3>
+            {% if selected_input_type == 'text' %}
+            <form method="POST">
+                <input type="hidden" name="commentText" value="{{ commentText }}">
+                <input type="hidden" name="prosText" value="{{ prosText }}">
+                <input type="hidden" name="consText" value="{{ consText }}">
+                <input type="hidden" name="result" value="{{ result }}">
+                <div class="row mt-5">
+                    <div class="col-md-6">
+                        <div class="p-3 border rounded shadow-sm bg-light">
+                            <h4 class="text-success">Результат модели:</h4>
+                            <p class="fs-5">{{ result }}</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="p-3 border rounded shadow-sm bg-light">
+                            <label for="user_score" class="form-label">Какой NPS вам кажется справедливым, введите число от 0 до 10:</label>
+                            <input id="user_score" name="user_score" class="form-control" type="number" min=0 max=10 step=1 rows="3" placeholder="Например: 8 — хороший отзыв, но не идеальный"></input>
+
+                            <div class="d-flex justify-content-between">
+                            <button type="submit" name="submit_score" value="1" class="btn btn-primary">Отправить</button>
+                            <button type="button" class="btn btn-secondary" onclick="document.getElementById('user_score').value = '';">Очистить</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+            {% else %}
+            <h3 class="mt-5">Результат: {{ result }}</h3>
+                {% if file_avaliable%}
+                <a href="/download_excel" class="btn btn-outline-success">
+                    <i class="bi bi-file-earmark-spreadsheet"></i> Скачать отчёт
+                </a>
+                {% endif %}
+            {% endif %}
         {% endif %}
 
         {% if graph %}

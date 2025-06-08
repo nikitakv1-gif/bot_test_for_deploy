@@ -1,6 +1,7 @@
 import torch
 import torch.nn.functional as F
 import plotly.express as px
+import pandas as pd
 
 def get_emotion_logits_from_full_text(model_sent, emotion_tokenizer, text, plus_text=None, minus_text=None, max_length=512, device = None):
     total_logits = []
@@ -27,7 +28,7 @@ def get_emotion_logits_from_full_text(model_sent, emotion_tokenizer, text, plus_
 
     return avg_logits
 
-def predict(model, tokenizer, emotion_model, emotion_tokenizer, texts, plus_texts=None, minus_texts=None, max_length=46, device='cpu'):
+def predict(model, tokenizer, emotion_model, emotion_tokenizer, excel_work, texts, plus_texts=None, minus_texts=None, max_length=46, device='cpu'):
     device = torch.device(device)
     model.eval()
     with torch.no_grad():
@@ -82,9 +83,9 @@ def predict(model, tokenizer, emotion_model, emotion_tokenizer, texts, plus_text
     for i in range(len(star)):
         star_h = star[i]
         emo_h = emo[i]
-        emo_h_n = emo_h[0]
-        emo_h_p = emo_h[1]
-        emo_h_nega = emo_h[2]
+        emo_h_n = emo_h[1]
+        emo_h_p = emo_h[2]
+        emo_h_nega = emo_h[0]
         emo_avg = (emo_h_p - emo_h_nega + 1/2*emo_h_n)
         nps_score = round((star[i]-1)/4 * emo_avg,1)
         if nps_score < 0:
@@ -105,7 +106,16 @@ def predict(model, tokenizer, emotion_model, emotion_tokenizer, texts, plus_text
     labels={
         'x': 'Оценка NPS',  # Переименовываем ось X
         'y': 'Кол-во оценок'      # Переименовываем ось Y
-    }
-)
+        }
+    )
     NPS_num = prom/(prom+dis+neu)*100 - dis/(prom+dis+neu)*100
-    return NPS_num, graph
+
+    user_df = pd.DataFrame({"Общий отзыв": texts,
+                              "Плюсы": plus_texts,
+                              "Минусы": minus_texts,
+                              "Звезды": result["preds"],
+                              "NPS": NPS})
+    
+    f = excel_work.user_data(user_df)
+
+    return NPS_num, graph, f
